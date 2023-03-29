@@ -1,0 +1,1023 @@
+
+* {
+  padding: 0;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 2.2;
+}
+
+.header-top {
+  background-color: #081c42;
+}
+
+.header-top .header-icon a {
+  color: #fff;
+}
+
+.header-icon-rigth {
+  text-align: end;
+  text-transform: capitalize;
+}
+
+.header-top .header-icon-rigth a {
+  color: #fff;
+}
+
+.header-icon-rigth span {
+  color: antiquewhite;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.header-nav a:last-child {
+  background: #081c42 0% 0% no-repeat padding-box;
+  border-radius: 25px;
+  text-align: left;
+  font: normal normal bold 18px/35px Lato;
+  color: #ffffff;
+  opacity: 1;
+  padding: 0px 33px;
+}
+
+.header-nav a {
+  text-transform: capitalize;
+  text-align: left;
+  font: normal normal bold 18px/35px Lato;
+  color: #081c42;
+}
+
+section.main-section .banner-slider .main-div {
+  position: relative;
+}
+
+section.main-section .banner-slider .inner-content {
+  position: absolute;
+  top: 20px;
+  width: 60%;
+  padding: 40px;
+}
+
+section.main-section .banner-slider .main-div h1 {
+  font: Amenable;
+  color: #ffffff;
+  font-size: 42px;
+  padding: 21px 0;
+}
+
+section.main-section .banner-slider .main-div p {
+  font: normal normal normal 22px/34px Lato;
+  color: #ffffff;
+}
+
+section.main-section .banner-slider .main-div a {
+  text-align: center;
+  background: #d5577f 0% 0% no-repeat padding-box;
+  border-radius: 25px;
+  padding: 10px 20px;
+  opacity: 1;
+}
+
+.banner1 {
+  margin-top: 70px;
+}
+
+.banner1 h1 {
+  text-align: left;
+  font: normal normal normal 35px/80px Amenable;
+  letter-spacing: 0px;
+  color: #081c42;
+  opacity: 1;
+}
+
+.banner1 p {
+  text-align: left;
+  font: normal normal normal 20px/24px Lato;
+  letter-spacing: 0px;
+  color: #2d2d2d;
+  opacity: 1;
+}
+
+.banner1 a {
+  text-align: left;
+  font: normal normal bold 18px/35px Lato;
+  letter-spacing: 3.6px;
+  color: #081c42;
+  opacity: 1;
+}
+
+.main-section2 {
+  background: url("../images/banner/banner2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.services-img img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+}
+
+.custom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.services-inner img {
+  width: 60px;
+  height: 60px;
+}
+
+.services-inner {
+  background-color: #d5577f;
+  border-radius: 50%;
+  padding: 50px;
+  margin: 0 40px;
+  text-align: center;
+}
+
+.service-heading h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+}
+
+.product-section {
+  background: transparent
+    linear-gradient(
+      232deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%
+    )
+    0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.custom-product p {
+  text-align: center;
+  font: normal normal normal 20px/35px Lato;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  padding: 15px;
+  border-radius: 0px 0px 20px 20px;
+  background-color: #d5577f;
+}
+
+.custom-team {
+  text-align: center;
+  font: normal normal normal 45px/80px Amenable;
+  letter-spacing: 0px;
+  color: #081c42;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.team-section {
+  /* padding: 6px 5px 0 3px; */
+  background: transparent
+    linear-gradient(
+      211deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%,
+      #000000 100%
+    )
+    0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 20px 20px;
+  /* opacity: 1; */
+}
+
+.team-section p {
+  padding: 15px 0px 0px;
+  text-align: center;
+  font: normal normal normal 25px/35px Amenable;
+  letter-spacing: 0px;
+  border-radius: 0px 0px 20px 20px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.team-section h6 {
+  text-align: center;
+  font: normal normal normal 16px/35px Lato;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.team-section .read-more-btn a {
+  text-align: center;
+  background: #d5577f;
+  color: #ffffff;
+  padding: 0px;
+  padding: 8px 16px;
+  border-radius: 25px;
+  opacity: 1;
+}
+
+.team-section .read-more-btn {
+  text-align: center;
+  padding: 16px 0px;
+}
+
+.middl-section {
+  background: transparent
+    linear-gradient(
+      135deg,
+      #d5577f 0%,
+      #b52c58 12%,
+      #9b133e 52%,
+      #d5577f 95%,
+      #d5577f 100%
+    );
+  opacity: 1;
+  padding: 50px 0;
+}
+
+.sessions img {
+  width: 100%;
+  height: 100%;
+}
+
+.sessions {
+  /* width: 100%; */
+  background-image: url("../images/banner/banner3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 7px 0 70px 1px;
+  margin-bottom: 30px;
+}
+
+.sessions h1 {
+  margin: 182px 0 0 0;
+  padding: 10px 0px 0px 41px;
+  font: normal normal normal 41px/57px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.sessions p {
+  padding: 0px 22px 26px 43px;
+  font: normal normal normal 18px/35px Lato;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.sessions .read-more-btn {
+  padding: 0px 0 0 40px;
+}
+
+.sessions .read-more-btn a {
+  color: #ffffff;
+  padding: 0px 3px 0px 4px;
+  border-radius: 25px;
+  opacity: 1;
+}
+
+.left-sessions {
+  background-image: url("../images/banner/banner3.png");
+  background-repeat: no-repeat;
+  padding: 0px 0 28px 0px;
+  background-size: cover;
+}
+
+.left-sessions h1 {
+  padding: 30px -4px 0px 34px;
+  padding: 49px 5px 11px 34px;
+  text-align: left;
+  font: normal normal normal 36px/49px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.left-sessions p {
+  padding: 1px 0px 0px 34px;
+  text-align: left;
+  font: normal normal normal 18px/35px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+/* .left-sessions {
+    height: 44vh;
+} */
+
+.learn-more-btn {
+  margin-top: 77px;
+  text-align: center;
+  font: normal normal bold 22px/39px Lato;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+.learn-more-btn a {
+  padding: 7px;
+  color: #ffffff;
+  background: #081c42;
+  border-radius: 29px;
+  opacity: 1;
+}
+
+.WHAT-WE-SHARE {
+  background: transparent
+    linear-gradient(
+      225deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%
+    )
+    0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding-bottom: 80px;
+}
+
+.media-account {
+  text-align: center;
+  font: normal normal normal 45px/80px Amenable;
+  letter-spacing: 0px;
+  color: #ffffff;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.media-account h1 {
+  margin: 36px 0px 38px 3px;
+}
+
+.media-account a {
+  padding: 20px;
+  color: red;
+}
+
+.insta1 img {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.instagram {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.instagram i {
+  color: blue;
+  padding: 20px;
+}
+
+.testimonail-section {
+  margin: 70px;
+  padding-bottom: 50px;
+}
+
+.testimonail {
+  text-align: center;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 6px 9px #00000029;
+  border: 1px solid #d6d5d5;
+  border-radius: 14px;
+  padding: 0px 0px 0px 0;
+  opacity: 1;
+  position: relative;
+}
+
+.testimonail p {
+  padding: 22px 7px 0 4px;
+  text-align: center;
+  font: normal normal normal 18px/35px Lato;
+  letter-spacing: 0px;
+  color: #2d2d2d;
+  opacity: 1;
+}
+
+.testimonail h4 {
+  padding: 8px 0px 12px 0;
+  text-align: center;
+  font: normal normal bold 20px/35px Lato;
+  letter-spacing: 0px;
+  color: #2d2d2d;
+  opacity: 1;
+}
+
+.testimonail-star {
+  color: #c9e920;
+  padding-top: 10px;
+}
+
+.contact-form {
+  background: transparent
+    linear-gradient(
+      239deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%
+    )
+    0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  padding: 100px 0 150px 0;
+  position: relative;
+  margin-top: 200px;
+}
+
+.contact-info h1 {
+  text-align: left;
+  font: normal normal normal 53px/75px Amenable;
+  letter-spacing: 17px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.contact-info p {
+  text-align: left;
+  font: normal normal normal 18px/35px Lato;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.learn-more-btn0 a {
+  border: 2px solid #d5577f;
+  border-radius: 25px;
+  opacity: 1;
+  padding: 12px 23px;
+  /* background: #000000; */
+  color: #fff;
+}
+
+.learn-more-btn0 {
+  padding: 20px;
+}
+
+.cantactform {
+  background: transparent
+    linear-gradient(
+      213deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%
+    )
+    0% 0% no-repeat padding-box;
+  box-shadow: 0px 9px 10px #00000057;
+  border: 1px solid #d5577f;
+  border-radius: 10px;
+  opacity: 1;
+  padding: 40px;
+  position: absolute;
+  /* width: 40%; */
+  top: -20%;
+  right: 10%;
+  width: 30%;
+}
+
+.cantactform input {
+  margin-bottom: 15px;
+}
+
+.send-btn button {
+  border: 1px;
+  text-align: center;
+  /* font: normal normal bold 20px/35px Lato; */
+  letter-spacing: 4px;
+  color: #fefefe;
+  background: #d5577f 0% 0% no-repeat padding-box;
+  padding: 10px 20px;
+  margin: 22px 6px 0px 109px;
+}
+
+footer {
+  margin: 50px;
+}
+
+footer p {
+  padding: 33px 0 3px 0;
+  text-align: left;
+  font: normal normal normal 18px/37px Lato;
+  letter-spacing: 0px;
+  color: #081c42;
+  opacity: 1;
+}
+
+.visit-footer ul li {
+  text-align: left;
+  font: normal normal normal 20px/57px Lato;
+  letter-spacing: 0px;
+  color: #081c42;
+  opacity: 1;
+}
+
+.visit-footer {
+  margin-left: 39px;
+  margin-top: 19px;
+}
+
+.visit-footer h1 {
+  text-align: left;
+  font: normal normal bold 31px/37px Lato;
+  letter-spacing: 0px;
+  color: #081c42;
+  opacity: 1;
+}
+
+.contact-footer a {
+  color: #000;
+}
+
+.contact-footer h1 {
+  text-align: left;
+  font: normal normal bold 27px/40px Lato;
+  letter-spacing: 0px;
+  color: #081c42;
+  opacity: 1;
+  margin-top: 15px;
+}
+
+.contact-footer a img {
+  margin: 11px;
+}
+
+.footer-icon a {
+  color: #000000;
+  margin: 3px;
+}
+
+.footer-icon {
+  margin-top: 20px;
+}
+
+.subscribe-footer h1 {
+  text-align: left;
+  font: normal normal bold 30px/35px Lato;
+  letter-spacing: 0px;
+  color: #081c42;
+  opacity: 1;
+}
+
+.banner-img img {
+  width: 100%;
+}
+
+.custom-product img {
+  width: 100%;
+}
+
+.team-section img {
+  width: 100%;
+}
+
+.comments-ss img {
+  width: 100%;
+}
+
+.product-slider {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.our-menu-slider {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.banner-slider.owl-theme .owl-dots,
+.banner-slider.owl-theme .owl-nav {
+  position: absolute;
+  left: 48%;
+  bottom: 18px;
+}
+
+/* *****************************inner page one about us page ************************* */
+.inner-about-us {
+  padding: 0px 0px 43px 28px;
+}
+
+.our-mission-div {
+  margin: 100px 25px 7px 10px;
+}
+
+.inner-banner,
+.our-mission-div h1 {
+  text-align: left;
+  font: normal normal normal 44px/67px Amenable;
+  color: #081c42;
+  text-transform: uppercase;
+}
+
+.inner-banner,
+.our-mission-div p {
+  font: normal normal normal 20px/29px Amenable;
+  text-transform: capitalize;
+}
+
+.inner-banner.inner-banner img {
+  width: 100%;
+}
+
+.our-goul-section {
+  width: 100%;
+  position: relative;
+  background: transparent
+    linear-gradient(
+      212deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%
+    );
+}
+
+.our-goul-section::after {
+  position: absolute;
+  content: " ";
+  height: 100%;
+  width: 1px;
+  background-color: #d5577f;
+  left: 50%;
+  top: 0;
+}
+
+.our-gaol-div {
+  text-align: center;
+  padding: 50px 57px 22px 0px;
+}
+
+.our-gaol-div h1 {
+  text-align: left;
+  color: white;
+  text-transform: uppercase;
+}
+
+.our-gaol-div p {
+  text-align: left;
+  font: normal normal normal 15px/27px Lato;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.OUR-VISION-div {
+  padding: 50px;
+  text-align: center;
+}
+
+.OUR-VISION-div h1 {
+  text-align: left;
+  color: white;
+  text-transform: uppercase;
+}
+
+.OUR-VISION-div p {
+  text-align: left;
+  font: normal normal normal 15px/27px Lato;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.img-inner svg {
+  width: 100%;
+}
+
+section.our-goul-section .img-inner {
+  text-align: center;
+}
+
+.our-success-section h1 {
+  padding: 27px 0px;
+  text-align: center;
+  font: normal normal normal 48px/86px Amenable;
+  letter-spacing: 0px;
+  color: #d5577f;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.success-div {
+  margin: 50px 7px 1px 10px;
+  text-align: left;
+  letter-spacing: NaNpx;
+  color: #081c42;
+  opacity: 1;
+}
+
+.success-div h6 {
+  text-align: left;
+  font: normal normal bold 18px/39px Lato;
+  letter-spacing: 0px;
+  color: #081c42;
+}
+
+.success-div p {
+  text-align: left;
+  font: normal normal normal 15px/35px Lato;
+  letter-spacing: 0px;
+  color: #081c42;
+}
+
+/* *****************************inner page one about us page  end************************* */
+
+/* *****************************inner page two about us page  start************************* */
+
+.product-div-items {
+  background-image: url("../images/innerpage2/bannerpage2.png");
+  background-size: cover;
+  padding: 15px;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.product-div-items h1 {
+  color: #fff;
+}
+
+.product-div-items.custom-product {
+  padding: 11px;
+}
+
+.custom-product img {
+  margin: 96px 0px 0px 0px;
+}
+
+.product-info {
+  position: relative;
+}
+
+.product-info::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: url("../images/innerpage2/productbackground.png");
+  content: "";
+  width: 100%;
+}
+
+/* *****************************inner page two about us page  end************************* */
+
+/* *****************************inner page three shop page  start************************* */
+.thumbnial-img{
+  margin: 74px 0px 0px 12px;
+}
+
+.product-text{
+  margin: 77px 18px 56px 8px;
+}
+
+.product-text p span{
+    color: #D5577F;
+}
+
+.product-text h4 {
+  text-align: left;
+  letter-spacing: NaNpx;
+  text-align: left;
+  font: normal normal normal 30px/71px Amenable;
+  color: #081C42;
+}
+
+.product-text h6{text-align: left;font: normal normal bold 19px/19px Lato;color: #081C42;}
+
+.product-text p{
+  text-align: left;
+  font: normal normal normal 15px/28px Lato;
+  color: #2D2D2D;
+}
+
+.product-text button{
+  margin-top: 16px;
+  border-radius: 6px;
+  padding: 6px 15px;
+  border: none;
+  margin: 0 0px 0px 21px;
+  background-color: #081C42;
+}
+
+.product-text button a{
+  color: white;
+  text-transform: capitalize;
+}
+
+.product-text span{
+  border: 1px solid #000;
+  padding:4px 8px;
+}
+
+.share-icon a{
+  margin:0px 0px 0px 12px;
+  color: gray;
+}
+
+/* *****************************inner page two about us page  end ************************* */
+
+/* *****************************inner page four free resourses page  start ************************* */
+.free-resources-heading h5 {
+  text-align: center;
+  font: normal normal normal 31px/74px Amenable;
+  color: #081c42;
+}
+
+.free-resources-heading p {
+  text-align: center;
+  font: normal normal normal 22px/35px Lato;
+  color: #081c42;
+}
+
+.detaiitem {
+  margin: 20px 7px 20px 7px;
+  background: transparent
+    linear-gradient(
+      220deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%
+    )
+    0% 0% no-repeat padding-box;
+  border-radius: 20px;
+  text-align: center;
+  color: #fff;
+  font: normal normal normal 16px/35px Lato;
+  padding: 14px 3px 31px 3px;
+}
+
+.detaiitem1 {
+  margin: 20px 7px 20px 7px;
+  background: transparent
+    linear-gradient(
+      220deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%
+    )
+    0% 0% no-repeat padding-box;
+  border-radius: 20px;
+  text-align: center;
+  color: #fff;
+  transition: 0.5s;
+  font: normal normal normal 16px/35px Lato;
+  padding: 14px 3px 31px 3px;
+}
+
+.detaiitem1:hover {
+  background: transparent
+    linear-gradient(
+      220deg,
+      #d5577f 0%,
+      #d5577f 2%,
+      #d5577f 52%,
+      #d5577f 95%,
+      #d5577f 100%
+    )
+    0% 0% no-repeat padding-box;
+}
+
+.detaiitem1 svg {
+  color: #fff;
+  border-radius: 30px;
+  background-color: #d5577f;
+  padding: 7px 20px;
+}
+
+.detaiitem svg {
+  color: #fff;
+  border-radius: 30px;
+  background-color: #d5577f;
+  padding: 7px 20px;
+}
+
+.resources-div {
+  padding: 73px 0px 24px 0;
+  text-align: center;
+  font: normal normal normal 55px/80px Amenable;
+  color: #081c42;
+}
+
+.resources-links ol li {
+  text-align: left;
+  font: normal normal bold 25px/35px Lato;
+  color: #081c42;
+  list-style: inherit;
+}
+
+.resources-links {
+  margin: 32px 1px 3px 104px;
+}
+
+.resources-para {
+  padding: 118px 31px 0px 31px;
+  text-align: center;
+  font: normal normal bold 26px/35px Lato;
+  color: #081c42;
+}
+
+/* *****************************inner page four free resourses page   end************************* */
+
+/* *****************************inner page five Become an Influencer page   start************************* */
+.Become-an-Influencer-div {
+  padding-top: 32px;
+  text-align: center;
+  font: normal normal normal 20px/25px Lato;
+  color: #081c42;
+}
+
+.amount-detail {
+  padding: 0px 0px 36px 0;
+  text-align: center;
+  background: transparent
+    linear-gradient(
+      225deg,
+      #081c42 0%,
+      #d5577f 2%,
+      #081c42 52%,
+      #d5577f 95%,
+      #02060d 100%
+    )
+    0% 0% no-repeat padding-box;
+  border-radius: 17px;
+  margin: 13px 1px 0 0;
+}
+
+.amount-detail h4 {
+  background: transparent
+    linear-gradient(
+      255deg,
+      #fe244e 0%,
+      #ee4d69 15%,
+      #f23d5e 43%,
+      #e12b4d 64%,
+      #9f0f28 86%,
+      #be0a2a 100%
+    )
+    0% 0% no-repeat padding-box;
+  border-radius: 17px;
+}
+
+.amount-detail h4 span {
+  color: #fff;
+}
+
+.amount-detail ul li {
+  padding: 13px 0px 0px 0;
+  margin: 0px 15px 0px 19px;
+  text-align: left;
+  font: normal normal normal 16px/31px Lato;
+  color: #ffffff;
+}
+
+.amount-detail button {
+  margin-top: 16px;
+  border-radius: 30px;
+  padding: 6px 15px;
+  border: none;
+  background-color: #d5577f;
+}
+
+/* *****************************inner page four Become an Influencer  end************************* */
