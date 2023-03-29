@@ -1,0 +1,376 @@
+@media only screen and (max-width: 1720px) {
+        .greater-health .inner-content h1,
+        .epigenetic-testing .inner-content h1 {
+                text-align: left;
+                font: normal normal 900 40px/45px Lato;
+        }
+        .greater-health .inner-content h5,
+        .epigenetic-testing .inner-content h5 {
+                font: italic normal normal 25px/40px Lato;
+        }
+        .greater-health .inner-content p,
+        .epigenetic-testing .inner-content p {
+                margin: 10px 0 0;
+        }
+        .greater-health .inner-content .learn-more-btn a,
+        .epigenetic-testing .inner-content .learn-more-btn a {
+                font: normal normal bold 15px/35px Lato;
+                padding: 10px 25px;
+        }
+        section.schedule-an-appoint .inner-content h1 {
+                font: normal normal normal 45px/55px Lato;
+        }
+        section.courses-section .inner-content h1 {
+                font: normal normal 900 40px/45px Lato;
+        }
+        section.get-an-oppoint .inner-content h1 {
+                font: normal normal 900 55px/55px Lato;
+        }
+        section.blogs-main .blog-inner-content h2 {
+                font: normal normal bold 28px/30px Lato;
+        }
+        .banner-inner-content h1 {
+                font: normal normal 900 80px/70px Lato;
+        }
+        .banner-inner-content h2 {
+                font: normal normal 900 55px/75px Lato;
+        }
+}
+@media only screen and (max-width:1480px) {
+        .header-manu-main ul.header-menu-link li {
+                padding: 10px 5px 10px 10px;
+        }
+        .header-manu-main ul.header-menu-link li a {
+                font-size: 16px;
+        }
+        .header-manu-main .btn-mains a.get-btn {
+                padding: 10px 12px;
+        }
+        .greater-health .inner-content p,
+        .epigenetic-testing .inner-content p,
+        section.courses-section .inner-content p {
+                font: normal normal normal 20px/30px Lato;
+        }
+}
+@media only screen and (max-width:1320px) {
+        .greater-health .inner-content h1,
+        .epigenetic-testing .inner-content h1 {
+                text-align: left;
+                font: normal normal 900 30px/35px Lato;
+        }
+        .greater-health .inner-content h5,
+        .epigenetic-testing .inner-content h5 {
+                font: italic normal normal 20px/45px Lato;
+        }
+        section.schedule-an-appoint .inner-content h1 {
+                font: normal normal normal 30px/40px Lato;
+        }
+        section.schedule-an-appoint .inner-content .schedule-an-appoint a {
+                font: normal normal bold 14px/30px Lato;
+                padding: 10px 10px;
+        }
+        .banner-inner-content h1 {
+                font: normal normal 900 75px/65px Lato;
+        }
+        .banner-inner-content h2 {
+                font: normal normal 900 50px/70px Lato;
+        }
+        .banner-inner-content h5 {
+                font-size: 35px;
+        }
+        .banner-inner-content .get-appoint-btn a {
+                font: normal normal bold 16px/30px Lato;
+                padding: 10px 20px;
+        }
+        .greater-health .inner-content .learn-more-btn a,
+        .epigenetic-testing .inner-content .learn-more-btn a {
+                font: normal normal bold 14px/30px Lato;
+                padding: 10px 20px;
+        }
+        section.recommended-products h1 {
+                font: normal normal bold 30px/20px Lato;
+        }
+        section.recommended-products h1::before {
+                width: 160px;
+                top: 10px;
+                left: 130px;
+        }
+        section.recommended-products h1::after {
+                width: 160px;
+                top: 10px;
+                right: 130px;
+        }
+        section.recommended-products .product-inner-content {
+                margin: 0 20px;
+        }
+        section.recommended-products .product-owl-nav span.next-button {
+                right: 540px;
+        }
+        section.recommended-products .product-owl-nav span.prev-button {
+                left: 540px;
+        }
+        section.courses-section .inner-content h1 {
+                font: normal normal 900 30px/35px Lato;
+        }
+        section.courses-section .inner-content h5 {
+                font: italic normal normal 20px/45px Lato;
+        }
+        section.get-an-oppoint .inner-content h1 {
+                font: normal normal 900 50px/50px Lato;
+        }
+        section.get-an-oppoint .inner-content .book-an a {
+                font: normal normal bold 16px/30px Lato;
+                padding: 10px 15px;
+        }
+        section.blogs-main .inner-content h1,
+        section.testimonials .inner-content h1 {
+                font: normal normal 900 45px/55px Lato;
+                letter-spacing: 10px;
+        }
+        section.blogs-main .inner-content h5,
+        section.testimonials .inner-content h5 {
+                font: italic normal normal 20px/55px Lato;
+        }
+        section.contact-sec .inner-content h1 {
+                font: normal normal bold 60px/65px Lato;
+                letter-spacing: 3px;
+        }
+        footer.footer-main .footer-inner-content h2 {
+                font: normal normal bold 22px/30px Lato;
+        }
+        footer.footer-main .footer-inner-content ul {
+                margin-top: 25px;
+        }
+}
+@media only screen and (max-width:1160px) {
+        .greater-health .inner-content,
+        .epigenetic-testing .inner-content {
+                padding-left: 50px;
+        }
+        section.schedule-an-appoint .inner-content {
+                padding-left: 80px;
+                padding-right: 30px;
+        }
+        section.recommended-products h1::after {
+                width: 100px;
+        }
+        section.recommended-products h1::before {
+                width: 100px;
+        }
+        section.blogs-main .blog-inner-content h2 {
+                font: normal normal bold 24px/28px Lato;
+        }
+        section.testimonials {
+                margin-top: 90px;
+        }
+        section.recommended-products .product-owl-nav span.next-button {
+                right: 460px;
+        }
+        section.recommended-products .product-owl-nav span.prev-button {
+                left: 460px;
+        }
+        section.recommended-products .product-inner-content {
+                margin: 0 35px;
+        }
+}
+@media only screen and (max-width:991px) {
+        section.recommended-products h1::before {
+                width: 100px;
+                left: 90px;
+        }
+        section.recommended-products h1::after {
+                width: 100px;
+                right: 90px;
+        }
+        section.recommended-products h1 {
+                font: normal normal bold 27px/20px Lato;
+        }
+        section.recommended-products .product-owl-nav span.prev-button {
+                left: 405px;
+        }
+        section.recommended-products .product-owl-nav span.next-button {
+                right: 405px;
+        }
+        section.get-an-oppoint .inner-content h1 {
+                font: normal normal 900 40px/50px Lato;
+        }
+        .header-manu-main .btn-mains a.get-btn {
+                padding: 10px 5px;
+                font-size: 14px;
+        }
+        section.get-an-oppoint .inner-content .book-an a {
+                font: normal normal bold 12px/20px Lato;
+                padding: 8px 8px;
+        }
+        section.blogs-main .blog-inner-content h2 {
+                font: normal normal bold 22px/28px Lato;
+        }
+}
+@media only screen and (max-width: 915px) {
+        header .desktop-header {
+                display: none;
+        }
+        header .mob-header {
+                display: block;
+        }
+}
+@media only screen and (max-width: 576px) {
+        .banner-inner-content h1 {
+                font: normal normal 900 60px/60px Lato;
+        }
+        .banner-inner-content h2 {
+                font: normal normal 900 40px/50px Lato;
+        }
+        .banner-inner-content h5 {
+                font-size: 30px;
+        }
+        .banner-background .banner-inner-content {
+                padding: 10rem 0 8rem;
+        }
+        .banner-slider.owl-theme .owl-dots .owl-dot.active span,
+        .banner-slider.owl-theme .owl-dots .owl-dot:hover span {
+                width: 50px;
+        }
+        .banner-slider.owl-theme .owl-dots .owl-dot span,
+        .banner-slider.owl-theme .owl-dots .owl-dot:hover span {
+                width: 50px;
+        }
+        .banner-inner-content .get-appoint-btn a {
+                font: normal normal bold 14px/30px Lato;
+                padding: 10px 15px;
+        }
+        .greater-health .inner-content,
+        .epigenetic-testing .inner-content {
+                padding-left: 0px;
+        }
+        .greater-health .inner-content h1,
+        .epigenetic-testing .inner-content h1 {
+                text-align: left;
+                font: normal normal 900 18px/32px Lato;
+        }
+        section.greater-health,
+        section.epigenetic-testing {
+                margin-bottom: 60px;
+                margin-top: 40px;
+        }
+        section.schedule-an-appoint .inner-content {
+                padding-left: 20px;
+                padding-right: 0px;
+                padding-top: 50px;
+                padding-bottom: 80px;
+        }
+        section.schedule-an-appoint .inner-content .schedule-an-appoint a {
+                font: normal normal bold 12px/30px Lato;
+                padding: 10px 5px;
+        }
+        section.contact-sec .inner-content {
+                padding-bottom: 50px;
+        }
+        section.contact-sec .inner-content h1 {
+                font: normal normal bold 50px/50px Lato;
+        }
+        .testmonial-slider .owl-item.active.center .testimonial-inner-content {
+                margin: 0 30px;
+        }
+        .testmonial-slider .owl-item .testimonial-inner-content {
+                margin: 0 30px;
+        }
+        .testmonial-slider.owl-theme .owl-nav.disabled+.owl-dots {
+                margin-top: 30px;
+        }
+        section.blogs-main .inner-content h1,
+        section.testimonials .inner-content h1 {
+                font: normal normal 900 50px/55px Lato;
+                letter-spacing: 5px;
+        }
+        section.blogs-main .blog-inner-content {
+                margin: 20px 30px;
+        }
+        section.get-an-oppoint .inner-content h1 {
+                margin: 50px 0 0;
+        }
+        section.courses-section .inner-images {
+                text-align: center;
+        }
+        section.courses-section .inner-images img {
+                width: 80%;
+                margin: 10px 0;
+        }
+        section.recommended-products .product-owl-nav span.next-button {
+                right: 140px;
+        }
+        section.recommended-products .product-owl-nav span.prev-button {
+                left: 140px;
+        }
+        section.recommended-products h1::before {
+                display: none;
+        }
+        section.recommended-products h1::after {
+                display: none;
+        }
+        section.recommended-products h1 {
+                font: normal normal bold 33px/38px Lato;
+        }
+        .form-inner-content .submit-btn button {
+                font: normal normal bold 13px/30px Lato;
+                padding: 8px 5px;
+        }
+        .form-inner-content {
+                padding: 20px 20px 70px;
+        }
+        section.inner-page-banner .inner-content h1 {
+                text-align: center;
+                font: normal normal 900 40px/70px Lato;
+                letter-spacing: 8px;
+        }
+        .greater-health .inner-image img,
+        .epigenetic-testing .inner-image img {
+                width: 100%;
+                height: 400px;
+        }
+        section.lab-testing-mid .inner-content h1 {
+                text-align: center;
+                font: normal normal 900 30px/40px Lato;
+        }
+        section.cellular-health .inner-content {
+                margin: 30px 0;
+        }
+        section.courses-sections .inner-content {
+                margin-top: 60px;
+                margin-bottom: 50px;
+        }
+        section.courses-sections .inner-content .instructor {
+                top: 62%;
+        }
+}
+@media only screen and (max-width: 375px) {
+        greater-health .inner-content .learn-more-btn a,
+        .epigenetic-testing .inner-content .learn-more-btn a {
+                font: normal normal bold 14px/30px Lato;
+                padding: 10px 10px;
+        }
+        .greater-health .inner-content h1,
+        .epigenetic-testing .inner-content h1 {
+                text-align: left;
+                font: normal normal 900 26px/32px Lato;
+        }
+        .banner-slider.owl-theme .owl-dots .owl-dot.active span,
+        .banner-slider.owl-theme .owl-dots .owl-dot:hover span {
+                width: 40px;
+        }
+        .banner-slider.owl-theme .owl-dots .owl-dot span,
+        .banner-slider.owl-theme .owl-dots .owl-dot:hover span {
+                width: 40px;
+        }
+        section.blogs-main .inner-content h1,
+        section.testimonials .inner-content h1 {
+                font: normal normal 900 38px/46px Lato;
+        }
+        .form-inner-content .submit-btn button {
+                font: normal normal bold 13px/30px Lato;
+                padding: 8px 5px;
+        }
+        .form-inner-content {
+                padding: 20px 20px 70px;
+        }
+}
