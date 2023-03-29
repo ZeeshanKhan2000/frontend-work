@@ -1,0 +1,619 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  list-style: none;
+}
+/* **********nav section start************* */
+nav {
+  background-color: white;
+  text-transform: capitalize;
+  width: 100%;
+  height: 130px;
+}
+
+label.logo44 {
+  color: black;
+  line-height: 80px;
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 40px;
+}
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+nav ul {
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 60px;
+}
+
+nav ul li a:hover {
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.rigthnav {
+  padding-left: 10px;
+  float: right;
+  margin-left: 80px;
+  color: brown;
+}
+
+.rigthnav a {
+  padding: 10px;
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+  padding-left: 80px;
+  background-image: url("../images/back.jpg");
+}
+
+.main h1 {
+  color: white;
+  font-size: 60px;
+  padding-top: 180px;
+}
+.main p {
+  color: white;
+  font-size: 30px;
+
+  margin: 10px;
+}
+.buynow {
+  padding: 8px;
+  border-radius: 30px;
+  font-size: x-large;
+}
+
+/* **********nav section end************* */
+
+/* **********first section start************* */
+.produts {
+  width: 100%;
+  height: 150px;
+  font-size: 20px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 10px;
+}
+
+.produts h1 {
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+
+.produts a {
+  text-decoration: none;
+  color: black;
+  padding: 30px;
+}
+/* **********first section end************* */
+
+/* **********second section start************* */
+
+.parent {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  margin-top: 50px;
+  /* margin-left: 15px; */
+  padding-left: 15px;
+}
+
+.leftimg {
+  width: 50%;
+  height: 100vh;
+  background-color: rgb(211, 208, 208);
+  border-radius: 25px 25px 25px 25px;
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 160px;
+  /* margin-right:50px ; */
+}
+
+.leftimg h1 {
+  padding-top: 50px;
+  padding-left: 100px;
+  text-transform: capitalize;
+}
+
+.leftimg button {
+  padding: 8px;
+  border-radius: 30px;
+  font-size: x-large;
+  margin-left: 150px;
+  margin-top: 30px;
+  background-color: black;
+  color: white;
+  /* display: none; */
+}
+
+.leftimg button::after {
+  display: block;
+}
+
+.Rone {
+  width: 300px;
+  height: 300px;
+  /* margin-left:30px ; */
+  border-radius: 25px 25px 25px 25px;
+  background-color: rgb(211, 208, 208);
+  position: relative;
+  /* left: 80px; */
+  padding-right: 30px;
+  padding-left: 66px;
+  padding-top: 30px;
+  padding-top: 30px;
+  margin: 0 20px 20px;
+}
+
+.Rone h4 {
+  padding-top: 10px;
+  padding-left: 30px;
+  font-size: 20px;
+}
+
+.Rone button {
+  padding: 8px;
+  border-radius: 30px;
+  margin-top: 25px;
+  margin-left: 35px;
+}
+
+.Rtwo {
+  width: 300px;
+  height: 300px;
+  /* margin-left: 50px; */
+  border-radius: 25px 25px 25px 25px;
+  background-color: rgb(211, 208, 208);
+  position: relative;
+  padding: 100px;
+  left: 50px;
+  padding-right: 30px;
+  padding-left: 80px;
+  padding-top: 30px;
+  margin: 0 20px 20px;
+}
+
+.Rtwo h4 {
+  padding-top: 10px;
+  padding-left: 30px;
+  font-size: 20px;
+}
+
+.Rtwo button {
+  padding: 8px;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-left: 35px;
+}
+
+.Rthree {
+  width: 300px;
+  height: 300px;
+  margin-left: 30px;
+  border-radius: 25px 25px 25px 25px;
+  background-color: rgb(211, 208, 208);
+  padding-right: 30px;
+  padding-left: 56px;
+  padding-top: 30px;
+  position: relative;
+  top: 350px;
+  right: 600px;
+}
+
+.Rthree h4 {
+  padding-top: 10px;
+  padding-left: 30px;
+  font-size: 20px;
+}
+
+.Rthree button {
+  padding: 8px;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-left: 35px;
+}
+
+.Rfour {
+  width: 300px;
+  height: 300px;
+  border-radius: 25px 25px 25px 25px;
+  background-color: rgb(211, 208, 208);
+  padding-right: 30px;
+  padding-left: 56px;
+  padding-top: 30px;
+  position: relative;
+  top: 350px;
+  right: 500px;
+}
+
+.Rfour h4 {
+  padding-top: 10px;
+  padding-left: 30px;
+  font-size: 20px;
+}
+
+.Rfour button {
+  padding: 8px;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-left: 35px;
+}
+
+/* **********second section end************* */
+
+/* **********third page section start************* */
+.head {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.head a {
+  text-decoration: none;
+  padding: 25px;
+  margin-bottom: 30px;
+  font-size: large;
+  color: black;
+  text-transform: capitalize;
+}
+
+.head h1 {
+  margin-bottom: 25px;
+  padding-top: 30px;
+  text-transform: capitalize;
+}
+
+.headtwo {
+  margin-top: 25px;
+}
+
+.headtwo button {
+  padding: 5px;
+  border-radius: 30px;
+  font-size: x-large;
+  background-color: black;
+  color: white;
+}
+
+/* **********third page section end************* */
+
+/* **********fourth page section start************* */
+.logo {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  margin-bottom: 30px;
+  background-image: url("../images/logoQ.jpeg");
+  /* background-repeat: no-repeat; */
+  /* background-size:100%; */
+  top: 100px;
+  /* position:initial; */
+}
+
+.logo h1 {
+  margin-bottom: 25px;
+  padding-top: 30px;
+  text-transform: capitalize;
+}
+
+.logo a {
+  text-decoration: none;
+  padding: 25px;
+  margin-bottom: 30px;
+  font-size: large;
+  color: black;
+  text-transform: capitalize;
+}
+
+.logo4 {
+  position: relative;
+  top: 350px;
+}
+
+.logo4 a {
+  text-decoration: none;
+  padding: 25px;
+  margin-bottom: 30px;
+  font-size: large;
+  color: black;
+  text-transform: capitalize;
+}
+
+.logo4 h1 {
+  margin-bottom: 25px;
+  padding-top: 30px;
+  text-transform: capitalize;
+}
+
+/* **********fourth page section end************* */
+
+/* **********fift page section start************* */
+.items {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  margin-bottom: 30px;
+  background-image: url("../images/machie.jpeg");
+  /* background-repeat: no-repeat; */
+}
+
+.items a {
+  text-decoration: none;
+  padding: 25px;
+  margin-bottom: 30px;
+  font-size: large;
+  color: black;
+  text-transform: capitalize;
+}
+
+.items h1 {
+  margin-bottom: 25px;
+  padding-top: 30px;
+  text-transform: capitalize;
+}
+
+.items1 {
+  font-size: 30px;
+  font-weight: bolder;
+  position: relative;
+  top: 300px;
+}
+
+.items1 a {
+  text-decoration: none;
+  border-radius: 25px 25px 25px 25px;
+  padding: 25px;
+  margin-bottom: 30px;
+  font-size: large;
+  color: black;
+  text-transform: capitalize;
+}
+
+/* **********fift page section end************* */
+
+/* **********sixt page section start************* */
+
+.slow {
+  text-align: center;
+  padding: 25px;
+}
+.picture {
+  border: 25px;
+  padding-left: 5px;
+}
+
+.babar {
+  float: right;
+  position: relative;
+  top: -600px;
+  right: 100px;
+}
+
+.newbar {
+  padding: 25px;
+  padding-bottom: 25px;
+  font-size: x-large;
+}
+.newbar span {
+  padding-right: 35px;
+}
+.newbar a {
+  text-decoration: none;
+  padding: 35px;
+  padding-left: 35px;
+  margin: 35px;
+  position: relative;
+  bottom: -25px;
+  /* padding-top:25px ; */
+}
+
+.medbar {
+  padding: 25px;
+  font-size: x-large;
+}
+
+.medbar span {
+  padding-right: 35px;
+}
+
+.medbar a {
+  text-decoration: none;
+  padding: 35px;
+  padding-left: 35px;
+  margin: 35px;
+  position: relative;
+  bottom: -25px;
+}
+
+.oldbar {
+  padding: 25px;
+  font-size: x-large;
+}
+
+.oldbar span {
+  padding-right: 35px;
+}
+
+.oldbar a {
+  text-decoration: none;
+  padding: 35px;
+  padding-left: 35px;
+  margin: 35px;
+  position: relative;
+  bottom: -25px;
+}
+
+/* **********sixt page section end************* */
+
+/* **********sevent page section start************* */
+
+/* .pageinfo {
+  text-align: center;
+  padding-top:100px ;
+  padding-left:400px ;
+  margin-bottom:40px ;
+  margin-left:5px;
+}
+.pageinfo input{
+  border-radius:35px ;
+  padding : 15px;
+  padding-left:100px;
+}
+
+.pageinfo a{
+    text-transform: capitalize;
+    color: black;
+} */
+
+.parent3 {
+  display: inline;
+  justify-content: space-around;
+  align-items: center;
+  /* flex-direction: column; */
+}
+
+.red {
+  width: 100%;
+  height: 40vh;
+  font-size: 15px;
+  padding-top: 150px;
+  padding-left: 400px;
+}
+
+.red input {
+  /* padding-bottom:50px ; */
+  border-radius: 25px 25px 25px 25px;
+  padding: 10px;
+  padding-left: 60px;
+  font-size: 20px;
+}
+
+.black {
+  padding-left: 300px;
+}
+
+.black a {
+  border-radius: 25px 25px 25px 25px;
+  text-decoration: none;
+  color: black;
+  border: 1px solid gray;
+  background-color: aliceblue;
+  padding: 5px;
+}
+.black a:hover {
+  color: black;
+  background-color: rgb(207, 203, 203);
+}
+
+/* **********sevent page section end************* */
+
+/* **********eight  page section start************* */
+hr {
+  width: 100%;
+}
+
+footer {
+  width: 100%;
+  height: 100vh;
+  padding-top: 10px;
+}
+
+footer ol li {
+  padding-top: 7px;
+  font-size: 1rem;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 10px;
+  position: relative;
+  top: 10;
+}
+
+.header {
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading1 {
+  /* display:flex; */
+  /* justify-content: left; */
+  /* flex-direction: column; */
+  width: 100%;
+  height: 100vh;
+}
+
+.heading1 ol {
+  position: relative;
+  right: 75px;
+}
+
+.heading1 ol li a {
+  color: black;
+  text-decoration: none;
+}
+
+.heading1 h3 {
+  padding-left: 10px;
+}
+
+.heading2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  top: -650px;
+  left: 250px;
+}
+
+.heading2 ol li a {
+  color: black;
+  text-decoration: none;
+}
+
+.heading3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  top: -1020px;
+  left: 650px;
+}
+
+.heading3 ol li a {
+  color: black;
+  text-decoration: none;
+}
+
+.heading4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  top: -1402px;
+  left: 1020px;
+}
+.heading4 a{
+  color: black;
+  text-decoration: none;
+}
+
+/* **********eight page section end************* */
