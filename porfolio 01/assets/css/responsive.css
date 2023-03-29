@@ -1,0 +1,378 @@
+@media (max-width: 1200px) {
+  .header-main-left h2 {
+    font-size: 24px;
+  }
+  .header-main a {
+    padding: 0 20px;
+  }
+  .header-main-right a {
+    font-size: 20px;
+    margin: 0 12px;
+  }
+  .discover-item-two {
+    padding: 33px 3px 21px 53px;
+  }
+  .discover-item-three {
+    padding: 45px 3px 29px 53px;
+  }
+  section.product-section .product-slider-inner p {
+    padding: 0 23px;
+  }
+  section.American-Comb-section .American-Comb-image img {
+    width: 75%;
+  }
+  section.American-Comb-section .American-Comb-content h1 {
+    font: normal normal 600 42px/77px Poppins;
+  }
+  section.American-Comb-section .American-Comb-content p {
+    font: normal normal normal 19px/32px MS Reference Sans Serif;
+  }
+  ul.tabs.Start-exploring-tabing-main-wrap li {
+    margin: 1px 23px;
+  }
+  .Start-exploring-tabing-main-wrap {
+    margin: 50px 153px;
+    padding: 10px 0px;
+  }
+  .discount-offer-content {
+    padding: 31px 61px;
+  }
+  .discount-offer-content h1 {
+    font: normal normal 800 109px/103px Poppins;
+  }
+  .discount-offer-content p {
+    margin: 16px 0;
+  }
+  .discount-offer-content h5 {
+    padding: 16px 0 0 0;
+  }
+  section.new-arrival-secton .new-arrival-heading {
+    margin: 0px 29px 38px 0;
+  }
+
+  footer {
+    margin: 33px 0 0 0;
+  }
+  section.Latest-News-section {
+    margin: 50px 0 0 0;
+  }
+  .footer-left p {
+    font: normal normal normal 14px/28px Poppins;
+    padding: 14px 72px 14px 0;
+  }
+  .footer-left h5 {
+    padding: 0px 0;
+  }
+  footer {
+    padding: 48px 0 49px 0;
+    margin: 45px 0 0 0;
+  }
+  .footer-links ul li {
+    padding: 3px 0px;
+  }
+}
+@media (max-width: 1025px) {
+  .header-main a {
+    padding: 0 10px;
+  }
+  .header-main-right a {
+    margin: 0 6px;
+  }
+  .banner-main-content h4 {
+    font: normal normal normal 21px/10px Poppins;
+  }
+  .banner-main-content h1 {
+    font: normal normal bold 52px/58px Poppins;
+    padding: 14px 0;
+  }
+  .banner-btn a {
+    padding: 8px 18px;
+  }
+  section.banner-section .owl-carousel .owl-item img {
+    width: 88%;
+  }
+  section.discover-section {
+    padding: 25px 0 50px 0px;
+  }
+  .discover-item {
+    padding: 21px 3px 31px 53px;
+  }
+  .discover-item-three {
+    padding: 27px 3px 29px 53px;
+  }
+  .discover-inner-imag3 {
+    text-align: -webkit-center;
+    width: 77%;
+  }
+  .discover-item-three {
+    padding: 27px 3px 29px 26px;
+  }
+  .discover-item {
+    padding: 21px 3px 31px 18px;
+  }
+  .discover-inner-imag2 {
+    text-align: -webkit-center;
+    width: 73%;
+    margin: 0 0 0 0px;
+  }
+  .discover-item-two {
+    padding: 33px 3px 21px 19px;
+  }
+  .discover-inner-imag1 {
+    text-align: -webkit-center;
+    margin: 0 0px 0 13px;
+  }
+  .discover-btn a {
+    padding: 8px 8px;
+  }
+  section.new-arrival-secton .new-arrival-btn h6 {
+    margin: 0 0px;
+    padding: 0px 0px;
+  }
+  section.new-arrival-secton .new-arrival-slider {
+    border-bottom: 1px solid #d1cdcd;
+    padding: 0 0 37px 0;
+  }
+  section.product-section {
+    margin: 35px 0;
+  }
+  section.American-Comb-section .American-Comb-content h1 {
+    font: normal normal 600 36px/52px Poppins;
+  }
+  section.American-Comb-section .American-Comb-image img {
+    width: 82%;
+  }
+  section.Start-exploring-section .Start-exploring-heading h1 {
+    margin: 48px 0 0 0;
+  }
+  .Start-exploring-tabing-main-wrap {
+    margin: 48px 111px;
+    padding: 12px 0px;
+  }
+  ul.tabs.Start-exploring-tabing-main-wrap li {
+    margin: 1px 13px;
+  }
+  ul.tabs.Start-exploring-tabing-main-wrap li.active {
+    padding: 4px 23px;
+  }
+  .Start-exploring-main {
+    padding: 24px 21px;
+    margin: 19px 0px;
+  }
+  section.discount-offer-section {
+    margin: 50px 0;
+  }
+  .Latest-News-item {
+    margin: 30px 0;
+  }
+  .Latest-News-comments span {
+    padding: 0px 5px;
+    font-size: 12px;
+  }
+  .Latest-News-comments {
+    margin: 0 3px;
+  }
+  .Latest-News-item h4 {
+    margin: 8px 15px;
+    font: normal normal bold 14px/38px Poppins;
+  }
+  .Latest-News-item p {
+    margin: 0 16px 22px 16px;
+  }
+  .Latest-News-btn a {
+    font: normal normal 300 15px/23px Poppins;
+    margin: 0 17px;
+    padding: 3px 10px;
+  }
+  .Stay-in-Touch {
+    padding: 82px 17px 65px 48px;
+  }
+  .Stay-in-Touch form input {
+    width: 50%;
+    padding: 16px 28px;
+  }
+  .Stay-in-Touch form button {
+    top: 66%;
+    left: 46%;
+    padding: 6px 11px;
+  }
+  .footer-left p {
+    font: normal normal normal 14px/28px Poppins;
+    padding: 14px 32px 14px 0;
+  }
+  .footer-links ul li {
+    padding: 3px 0px;
+    font-size: 15px;
+  }
+  .Latest-News-content p {
+    font: normal normal normal 17px/27px Poppins;
+  }
+  .Latest-News-content h1 {
+    font-size: 32px;
+  }
+
+
+
+
+
+
+
+
+
+}
+@media (max-width: 768px) {
+    .banner-main-content h4 {
+        font: normal normal normal 21px/17px Poppins;
+    }
+    .banner-main-content {
+        padding: 42px 12px;
+    }
+    section.banner-section .owl-carousel .owl-item img {
+        width: 98%;
+    }
+    .discover-heading h2 {
+        font-size: 20px;
+        margin: 25px 0;
+    }
+    .discover-heading h4 span i {
+        font-size: 17px;
+    }
+    .discover-heading h2 {
+        font-size: 20px;
+        margin: 25px 0;
+    }
+    .discover-heading h4 span {
+        padding: 5px 12px;
+        margin: 0 1px;
+    }
+    section.new-arrival-secton .new-arrival-heading h4 span {
+        padding: 4px 9px;
+        border-radius: 30px;
+        background: #f1f1f1;
+        margin: 0 1px;
+    }
+    section.product-section .product-slider-inner h4 {
+        padding: 14px 0;
+        font-size: 17px;
+    }
+    section.product-section .product-slider-inner p {
+        padding: 0 8px;
+        font-size: 18px;
+    }
+    section.product-section .product-slider-inner a {
+        padding: 6px 25px;
+    }
+    section.American-Comb-section .American-Comb-content h1 {
+        font: normal normal 600 27px/21px Poppins;
+    }
+    section.American-Comb-section .American-Comb-content p {
+        font: normal normal normal 18px/27px MS Reference Sans Serif;
+    }
+    section.American-Comb-section .American-Comb-btn a.American-Comb-active {
+        padding: 8px 21px;
+    }
+    section.American-Comb-section .American-Comb-btn a {
+        margin: 0 7px;
+        padding: 8px 14px;
+    }
+    .Start-exploring-tabing-main-wrap {
+        margin: 30px 26px;
+        padding: 12px 0px;
+    }
+    ul.tabs.Start-exploring-tabing-main-wrap li {
+        margin: 1px 7px;
+    }
+    .Start-exploring-main {
+        padding: 20px 18px;
+        margin: 19px 0px;
+    }
+    .Start-exploring-top h6 span {
+        padding: 8px 8px;
+        font: normal normal normal 15px/27px Poppins;
+    }
+    .Start-exploring-main h4 {
+        font-size: 18px;
+    }
+    .Start-exploring-main p {
+        font-size: 16px;
+    }
+    .Start-exploring-main h5 {
+        font-size: 17px;
+    }
+    .discount-offer-content h1 {
+        font: normal normal 800 73px/56px Poppins;
+    }
+    .discount-offer-content h5 {
+        padding: 16px 0 0 0;
+        font-size: 24px;
+    }
+    .discount-offer-content p {
+        margin: 4px 0;
+        font-size: 16px;
+    }
+    .discount-offer-btn a {
+        padding: 6px 22px;
+    }
+    .discount-offer-btn {
+        margin: 30px 0 0 0;
+    }
+    section.new-arrival-secton .new-arrival-heading {
+        margin: 0px 29px 32px 0;
+    }
+    .Latest-News-item h4 {
+        margin: 2px 15px;
+        font: normal normal bold 14px/25px Poppins;
+    }
+    .Latest-News-comments span {
+        padding: 0px 5px;
+        font-size: 15px;
+        margin: 0 4px;
+    }
+    .Latest-News-comments span i {
+        padding: 7px 9px;
+        color: red;
+    }
+    .Latest-News-item p {
+        margin: 0 16px 22px 16px;
+        font-size: 15px;
+    }
+    .Stay-in-Touch {
+        padding: 58px 17px 57px 33px;
+    }
+    .Stay-in-Touch form input {
+        width: 55%;
+        padding: 10px 16px;
+    }
+    .Stay-in-Touch form button {
+        top: 66%;
+        left: 49%;
+        padding: 4px 8px;
+    }
+    footer {
+        padding: 28px 0 15px 0;
+        margin: 45px 0 0 0;
+    }
+    .footer-left p {
+        font: normal normal normal 14px/28px Poppins;
+        padding: 14px 13px 14px 0;
+    }
+    .footer-links h6 {
+        font-size: 18px;
+        font-weight: 700;
+    }
+    section.new-arrival-secton .new-arrival-btn {
+        margin: 0 12px;
+    }
+}
+@media (max-width: 576px) {
+    .discover-heading h2 {
+        font-size: 18px;
+        margin: 27px 0;
+        line-height: 24px;
+    }
+    .discover-heading h4 {
+        display: none;
+    }
+}
+@media (max-width: 320px) {
+}
