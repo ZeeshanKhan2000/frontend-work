@@ -1,0 +1,190 @@
+@media (max-width: 1200px){
+    .header-right a {
+        font: normal normal normal 14px/12px Rubik;
+
+    }
+    .header-main a {
+      
+        font: normal normal normal 14px/17px Rubik;
+     
+    }
+
+}
+@media (max-width: 1024px){
+    .header-right {
+        display: flex;
+        align-items: center;
+    }
+
+    .Physical-Pros-text h6 {
+        font: normal normal 600 15px/25px Rubik;
+}
+}
+@media (max-width: 768px){
+    .mobile-menu {
+        display: block;
+    }
+
+    .desktop-header{
+        display: none;
+    }
+   
+    .banner-section .banner-text h1 {
+        font: normal normal bold 28px/41px Rubik;
+    }
+    .Working-div h4 {
+     font: normal normal bold 24px/18px Rubik;
+    }
+
+    .Digital-text a {
+        font: normal normal normal 16px/20px Rubik;
+       
+    }
+    .Physical-Pros-text {
+        padding: 0 51px;
+        margin-top: 45px;
+    }
+
+    .Physical-Pros-text h1 {
+        font: normal normal bold 24px/17px Rubik;
+    }
+    .Physical-Pros-text h6 {
+        font: normal normal 600 16px/20px Rubik;
+    }
+
+    .Physical-Pros-text p {
+        font: normal normal normal 14px/24px Rubik;
+    }
+
+
+    .footer-content {
+        margin: 15px 0;
+    }
+
+    section.product-slider-section .item img {
+        width: 75%;
+        margin: auto;
+    }
+
+    .Digital-text h1 {
+        font: normal normal bold 35px/41px Rubik;
+    }
+
+    .Digital-text h6 {
+        font: normal normal bold 14px/25px Rubik;
+    }
+
+    .Digital-text p {
+        font: normal normal normal 14px/21px Rubik;
+    }
+
+
+    .Working-div p {
+        font: normal normal normal 14px/22px Rubik;
+    }
+
+    .Working-div h4 {
+        font: normal normal bold 20px/14px Rubik;
+    }
+
+    .Working-div h1 {
+     font: normal normal bold 35px/66px Rubik;
+    }
+
+    .banner-section .banner-text input {
+        padding: 5px 9px;
+        font: normal normal normal 12px/23px Rubik;
+        width: 57%;
+    }
+
+
+    .banner-section .banner-text p {
+        font: italic normal normal 14px/16px Rubik;
+    }
+
+    .footer-search button {
+        padding: 8px 10px;
+        font-size: 14px;
+        right: 8%;
+        top: 18%;
+    }
+
+    .footer-search  input {
+        margin: 10px 0;
+        padding: 7px 11px;
+        font: normal normal normal 16px/23px Rubik;
+        width: 92%;
+    }
+
+    .footer-contact a {
+        font: normal normal bold 20px/36px Rubik;
+    }
+
+    .footer-contact p {
+        font: normal normal bold 14px/24px Rubik;
+    }
+
+    .footer-content h1 {
+        font: normal normal bold 34px/55px Rubik;
+    }
+
+
+    .footer-content p {
+        font: normal normal normal 16px/21px Rubik;
+    }
+
+    .footer-content h4 {
+        font: normal normal bold 17px/32px Rubik;
+    }
+
+    .footer-content a {
+        font: normal normal normal 14px/21px Rubik;
+    }
+
+    .footer-content h4 {
+        font: normal normal bold 17px/32px Rubik;
+    }
+
+    .footer-content a i {
+        font-size: 18px;
+        margin: 5px;
+    }
+
+    .copywrite-left {
+        font-size: 12px;
+    }
+}
+@media (max-width: 576px){
+    .banner-text {
+        padding: 15px 0;
+    }
+
+    .banner-products {
+        margin: 10px;
+    }
+
+    .Working-div p {
+        font: normal normal normal 14px/20px Rubik;
+    }
+
+    .Working-div h1 {
+        font: normal normal bold 34px/40px Rubik;
+    }
+
+    .banner-section .banner-text h1 {
+        font: normal normal bold 28px/36px Rubik;
+    }
+
+    .Working-div {
+        margin: 14px 0;
+    }
+
+    .product-slider-section h1 {
+        font: normal normal bold 16px/43px Rubik; 
+    }
+}
+@media (max-width: 375px){
+
+}
+
+@media (max-width: 320px){ } 
