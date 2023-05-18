@@ -27,7 +27,7 @@ html of mobile header ///
     </aside>
     
     
-    html of mobile header ///  
+    css of mobile header ///  
     
 .mobile-menu {
     display: block;
@@ -119,4 +119,14 @@ html of mobile header ///
     border-radius: 4px;
     padding: 2px 10px;
     margin: 10px auto;
-  }v
+  }
+  
+  js of mobile header ///  
+  
+  function openNav() {
+    document.getElementById("mySidenav").style.width = "100%";
+}
+
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
