@@ -1,0 +1,495 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+ul,
+li,
+a,
+.btn-default,
+textarea {
+  margin: 0;
+  padding: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+a:hover {
+  text-decoration: none;
+}
+a:focus {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+
+body {
+  background: #000;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url("../fonts/Poppins-Regular.ttf");
+}
+
+.mobile-menu {
+  display: none;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+nav{
+  padding: 30px 0;
+}
+
+.header-logo {
+    padding: 0 57px;
+}
+
+
+.header-links {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 53px;
+  padding-right: 30px;
+}
+
+.header-links a {
+  text-decoration: none;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.header-links button {
+  background: #4f4f5a;
+  border-radius: 8px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* identical to box height */
+  color: #ffffff;
+  width: 20%;
+  padding: 7px 0;
+  border: 0;
+}
+
+.banner-content h4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 120px;
+  line-height: 96px;
+  /* identical to box height, or 80% */
+  background: linear-gradient(180deg, #403b3e 0%, #242526 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.banner-content h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 96px;
+  /* identical to box height */
+  color: #f2f2f3;
+}
+
+.banner-content h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  color: #f2f2f3;
+}
+
+.banner-content p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+  color: #bdc0c2;
+  padding: 0 156px 0 0;
+}
+
+.header-top {
+  padding: 31px 0;
+}
+
+.banner-img {
+  position: relative;
+}
+
+.banner-img img {
+  position: absolute;
+  left: 24%;
+  /* bottom: -160px; */
+  top: -91px;
+}
+
+.shooping-bag {
+  display: flex;
+  gap: 19px;
+}
+
+.banner-btn {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+button.banner-contact-link {
+  background: #1e1e21;
+  border-radius: 8px;
+  border: 0;
+  padding: 7px 17px;
+  margin: 32px 0;
+}
+
+.shooping-bag p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* identical to box height */
+  color: #ffffff;
+}
+
+.banner-btn h4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  color: #ffffff;
+}
+
+.product-image  {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 120px;
+}
+
+.product-image img {
+  margin: 50px 0px;
+}
+
+.product-section {
+  padding: 50px 0 0;
+}
+
+section.Specs-section .Specs-heading h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 108px;
+  /* identical to box height */
+
+  text-align: center;
+
+  background: linear-gradient(180deg, #424245 0%, rgba(102, 102, 122, 0) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.specs-product-main {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+}
+
+.specs-product-main .specs-product .specs-prd-name {
+  margin: 20px 0;
+}
+.specs-product-main .specs-product .bluetoot {
+  margin: 0 0 0 35px;
+}
+.specs-product-main .specs-product .microphone {
+  margin: 0 0 0 35px;
+}
+.specs-product-main .specs-product .specs-prd-name h4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 6px 0;
+  /* identical to box height */
+  color: #f2f2f3;
+}
+
+.specs-product-main .specs-product .specs-prd-name h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  /* identical to box height */
+
+  color: #bdc0c2;
+}
+
+section.Specs-section {
+  padding: 50px 0;
+}
+
+.case-heading h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 108px;
+  /* identical to box height */
+  text-align: center;
+  background: linear-gradient(180deg, #424245 0%, rgba(102, 102, 122, 0) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  padding: 30px 0;
+}
+
+.case-btn a {
+  display: flex !important;
+  align-items: center;
+  gap: 20px;
+  background: #1e1e21;
+  border-radius: 8px;
+  width: 51%;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+.case-btn a h5 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 22px;
+  /* identical to box height */
+  color: #ffffff;
+}
+
+.case-btn {
+  margin: 40px 0;
+}
+
+.case-content h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+  color: #bdc0c2;
+  padding-right: 125px;
+}
+
+.case-imge {
+  display: flex;
+  justify-content: end;
+}
+
+.case-imge img {
+  width: 50%;
+}
+
+.case-content {
+  padding: 0 53px;
+}
+
+section.music-product-section {
+  padding: 50px 0;
+}
+
+.music-product h4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 32px;
+  /* identical to box height */
+  color: #f2f2f3;
+}
+
+.music-product h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height */
+  color: #bdc0c2;
+}
+
+.row.music-main {
+  background: #181a1b;
+  border-radius: 12px;
+  padding: 28px 50px;
+}
+
+.music-image img {
+  width: 85%;
+}
+
+section.case-section {
+  padding: 0 0 50px 0;
+}
+
+.style.heading h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 64px;
+  /* identical to box height, or 89% */
+  text-align: center;
+  background: linear-gradient(180deg, #424245 0%, rgba(102, 102, 122, 0) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+section.choose-style-section {
+  padding: 50px 0;
+}
+
+.product-style {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 31px;
+  padding-bottom: 12px;
+}
+
+.style-content h4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #f2f2f3;
+}
+
+.style-product-main {
+  background: #181a1b;
+  border-radius: 8px;
+  margin: 30px 0;
+  padding: 0px 27px;
+}
+
+.mic-image {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding: 44px;
+}
+
+.mic-image img {
+  position: absolute;
+  bottom: 8px;
+}
+
+.style.heading {
+  padding: 0 0px 98px 0;
+}
+
+.style-content span {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #bdc0c2;
+}
+
+.footer-links h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  color: #f2f2f3;
+  padding-bottom: 16px;
+}
+
+.footer-links ul li a {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* identical to box height */
+  color: #bdc0c2;
+  text-decoration: none;
+}
+
+.footer-saerch-bar input {
+  background: #181a1b;
+  border-radius: 8px;
+  border: 0;
+  padding: 17px 21px;
+  width: 100%;
+}
+
+.footer-saerch-btn button {
+  background: #0a0a0b;
+  border-radius: 8px;
+  color: #fff;
+  border: 0;
+  padding: 7px 14px;
+  position: absolute;
+  top: -48px;
+  right: 4%;
+}
+
+.footer-saerch-btn img {
+  padding-right: 19px;
+}
+
+.footer-saerch-btn {
+  position: relative;
+}
+
+.footer-icon a img {
+  width: 14%;
+}
+
+.footer-icon {
+  margin: 18px 0;
+}
+
+footer {
+  padding: 50px 0;
+}
