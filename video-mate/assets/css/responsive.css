@@ -1,0 +1,2367 @@
+@media (max-width: 1440px){
+    .fotr-acc-image {
+        padding-bottom: 31px;
+    }
+
+    .fotr-acc-image img {
+        width: 49%;
+    }
+
+    .fotr-accounts {
+        padding: 16px 0;
+    }
+    .trusted.trusted-2 img {
+        width: 40%;
+    }
+}
+
+@media (max-width: 1200px){
+
+    .banner-content {
+        padding: 0 80px;
+    }
+
+    .banner-content h1 {
+        font-size: 90px;
+        color: #fff;
+        font-weight: 600;
+        line-height: 82px;
+    }
+    .banner-btn {
+        /* background: #fff; */
+        padding: 0 90px;
+    }
+
+
+    button.owl-prev {
+        background: #fff !important;
+        color: inherit;
+        border: 1px solid red;
+        padding: 0;
+        font: inherit;
+        position: absolute;
+        top: -280px;
+        margin: 12px -64px;
+        left: 1%;
+    }
+
+    button.owl-next {
+        background: #fff !important;
+        color: inherit;
+        border: 1px solid red;
+        padding: 0;
+        font: inherit;
+        position: absolute;
+        top: -296px;
+        margin: 12px -64px;
+        right: 2%;
+    }
+
+    .banner-btn a {
+        font-size: 24px;
+        color: #c02229;
+        text-decoration: none;
+        background: #fff;
+        padding: 8px 22px;
+        /* margin: 27px 0; */
+        border-radius: 20px;
+    }
+
+    .banner-content h4 {
+        font-size: 35px;
+        color: #fff;
+        font-weight: 700;
+        padding: 8px 0;
+        margin: 13px 0px 23px 0;
+    }
+    .banner-btn {
+        /* background: #fff; */
+        padding: 0 82px;
+    }
+
+    .banner-content h1 {
+        font-size: 82px;
+        color: #fff;
+        font-weight: 600;
+        line-height: 82px;
+    }
+
+    .video-animation-heading h1 {
+        font-size: 33px;
+        text-transform: uppercase;
+        text-align: center;
+        line-height: 50px;
+        font-weight: 700;
+        padding: 35px 0;
+    }
+
+    section.animation-video-section {
+        padding: 50px 0 0 0;
+    }
+
+    .trusted.trusted-2 img {
+        width: 52%;
+    }
+    .circle-main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 15px 0;
+    }
+
+    .Quality-Work-image img {
+        width: 63%;
+    }
+    .our-expertise {
+        padding: 0 0 0 5px;
+    }
+
+    .fotr-accounts {
+        padding: 20px 0;
+    }
+    .fotr-acc-image {
+        padding-bottom: 29px;
+    }
+
+    .fotr-acc-image img {
+        width: 54%;
+    }
+    .copy-write h4 {
+        color: #fff;
+        font-size: 16px;
+        padding: 49px 0 36px 0;
+        text-align: center;
+    }
+
+    .social-icons span {
+        font-size: 23px;
+        padding: 0 0 0 7px;
+    }
+
+
+    .video-inner-package h4::after {
+        content: "";
+        display: inline-block;
+        width: 18%;
+        height: 3px;
+        background-color: black;
+        margin-bottom: 5px;
+    }
+
+    .video-inner-package h4::before {
+        content: "";
+        display: inline-block;
+        width: 16%;
+        height: 3px;
+        background-color: black;
+        margin-bottom: 6px;
+    }
+    .video-inner-package.video-mate-package-12 h4::after {
+        content: "";
+        display: inline-block;
+        width: 18%;
+        height: 3px;
+        background-color: rgb(255, 245, 245);
+        margin-bottom: 5px;
+    }
+
+    .video-inner-package.video-mate-package-12 h4::before {
+        content: "";
+        display: inline-block;
+        width: 16%;
+        height: 3px;
+        background-color: rgb(255, 255, 255);
+        margin-bottom: 6px;
+    }
+
+    .video-inner-package h4 span {
+        font-size: 18px;
+        /* background: red; */
+        padding: 7px 19px;
+        border-radius: 20px;
+        border: 1px solid #000;
+        color: #000;
+    }
+
+
+    .header-links ul li a {
+        color: #000;
+        text-decoration: none;
+        font-size: 17px;
+        padding: 0px 5px;
+    }
+    .header-btn .header-contact {
+        background: #ad2627;
+        border-radius: 23px;
+        padding: 7px 29px;
+        color: #fff;
+    }
+
+    .header-main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 21px;
+    }
+
+
+
+/* about us page responsive css /// */
+
+.about-banner-section {
+    background-image: url(../images/about-us/banner-about.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px 0px;
+}
+
+.about-content h1 {
+    font-size: 58px;
+    color: #fff;
+    font-family: Syne;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 105px;
+}
+
+.about-content p {
+    font-size: 19px;
+    font-weight: 500;
+    color: #fff;
+    font-family: Myriad Pro;
+    line-height: 29px;
+}
+
+.more-about-content h1 {
+    padding: 15px 0 48px 0;
+    text-align: center;
+    font-size: 42px;
+    font-family: Syne;
+    margin: 0 0px 23px;
+}
+
+.more-about-content p {
+    font-size: 19px;
+    font-family: Myriad Pro;
+    padding: 11px 0;
+    font-weight: 500;
+    line-height: 38px;
+}
+
+.about-banner-btn a {
+    color: #fffafa;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 9px 23px;
+    background: #ad2627;
+    margin: 0 9px;
+    border-radius: 20px;
+    font-weight: 600;
+}   
+
+
+.Choose-ViDeomatepro-content p {
+    font-size: 19px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Myriad Pro';
+    padding: 8px 62px;
+    margin: 0 0 38px 0;
+}
+
+
+.Choose-ViDeomatepro-content h1 {
+    font-size: 37px;
+    font-weight: 700;
+    font-family: 'Syne';
+    line-height: 61px;
+    color: #fff;
+}
+
+
+
+.industries-work-inner-content h2 {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Syne';
+}
+
+
+.industries-work-inner-content.work-inner-content12 h2 {
+    font-size: 18px;
+}
+
+.industreis-inner-image.inner-image-12 img {
+    width: 90%;
+}
+
+
+.industreis-inner-image.cord-red-200 img {
+    width: 88%;
+}
+
+
+.industries-work-cord.work-cord-Goverment {
+    padding: 14px 29px;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (max-width: 1025px){
+    .banner-content h1 {
+        font-size: 59px;
+        color: #fff;
+        font-weight: 600;
+    }
+
+
+    .categries-content-6d {
+        background-image: url(../images/porfolio/6.png);
+        padding: 146px 0;
+    }
+
+
+
+    .banner-content h4 {
+        font-size: 38px;
+        color: #fff;
+        font-weight: 700;
+        padding: 8px 0;
+        margin: 0 0px 23px 0;
+    }
+
+    .banner-btn {
+        /* background: #fff; */
+        padding: 0 80px;
+    }
+
+
+    .banner-content {
+        padding: 0 62px 0 77px;
+    }
+
+    .banner-btn a {
+        font-size: 22px;
+        color: #c02229;
+        text-decoration: none;
+        background: #fff;
+        padding: 4px 18px;
+        /* margin: 27px 0; */
+        border-radius: 20px;
+    }
+
+    button.owl-prev span {
+        font-size: 48px;
+        line-height: 25px;
+        color: red;
+        padding: 2px 11px;
+    }
+
+    button.owl-prev {
+        background: #fff !important;
+        color: inherit;
+        border: 1px solid red;
+        padding: 0;
+        font: inherit;
+        position: absolute;
+        top: -236px;
+        margin: 12px -64px;
+        left: 1%;
+    }
+
+    button.owl-next {
+        background: #fff !important;
+        color: inherit;
+        border: 1px solid red;
+        padding: 0;
+        font: inherit;
+        position: absolute;
+        top: -241px;
+        margin: 12px -64px;
+        right: 1%;
+    }
+
+
+    button.owl-next span {
+        font-size: 48px;
+        line-height: 25px;
+        color: red;
+        padding: 2px 11px;
+    }
+
+    .video-animation-heading h1 {
+        font-size: 29px;
+        text-transform: uppercase;
+        text-align: center;
+        line-height: 45px;
+        font-weight: 700;
+        padding: 0 0 35px 0;
+    }
+
+
+    .video-animation-heading p {
+        font-size: 17px;
+        line-height: 35px;
+        color: #000;
+        font-weight: 500;
+        padding: 21px 0;
+    }
+    section.animation-video-section {
+        padding: 50px 0 0 0;
+    }
+
+    .trusted-clients-heading h1 {
+        font-size: 33px;
+        text-transform: capitalize;
+        font-weight: 700;
+        padding: 0 0 41px 0;
+        margin: 0 0 50px 0;
+    }
+
+
+    .trusted.trusted-2 img {
+        width: 60%;
+    }
+
+    .Quality-Work-image img {
+        width: 70%;
+    }
+
+    .Quality-Work-heading h1 {
+        font-size: 35px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 49px;
+    }
+
+    .contact-form-heading p {
+        font-size: 18px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 34px;
+        text-align: center;
+        /* padding: 34px 0 0 0; */
+        margin: 0 0 49px 0;
+    }
+    section.call-to-action-setion .call-to-action .main-title span {
+        font-size: 34px;
+        font-weight: 900;
+    }
+
+    section.call-to-action-setion .call-to-action .main-title {
+        text-align: center;
+        color: #fff;
+        font-size: 29px;
+        font-weight: 500;
+        line-height: 46px;
+    }
+
+    section.call-to-action-setion .call-to-action .main-p {
+        text-align: center;
+        padding: 20px 0;
+        color: #fff;
+        font-size: 22px;
+        margin-bottom: 23px;
+    }
+
+    .social-icons span {
+        font-size: 23px;
+        padding: 0 0 0 9px;
+    }
+    .fotr-acc-image {
+        padding-bottom: 29px;
+    }
+
+    .fotr-accounts {
+        padding-top: 18px;
+    }
+
+    .fotr-acc-image img {
+        width: 65%;
+    }
+
+    .our-expertise h4 {
+        color: #fff;
+        font-size: 24px;
+        line-height: 52px;
+        text-transform: capitalize;
+        padding: 0 0 14px 0;
+    }
+
+    .our-expertise ul li {
+        font-size: 16px;
+        line-height: 37px;
+        font-weight: 400;
+        color: #fff;
+    }
+
+    .our-expertise h4 {
+        color: #fff;
+        font-size: 24px;
+        line-height: 52px;
+        text-transform: capitalize;
+        padding: 0 0 14px 0;
+    }
+
+    .our-expertise {
+        padding: 0 0 0 0px;
+    }
+    .footer-logo p {
+        font-size: 16px;
+        padding: 20px 0px 40px 0;
+        color: #fff;
+    }
+
+    .video-mate-form textarea {
+        width: 100%;
+        margin: 0 0 41px 0;
+        border: 1px solid red;
+        height: 178px;
+    }
+
+    .video-mate-form input {
+        width: 100%;
+        padding: 10px 16px;
+        font-size: 18px;
+        margin: 0 0 15px 0;
+        border: 1px solid red;
+    }
+
+    .video-mate-form label {
+        font-size: 16px;
+        padding: 6px 0;
+        text-transform: capitalize;
+    }
+
+    .contact-form-heading h1 {
+        font-size: 35px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 58px;
+        text-align: center;
+        padding: 34px 0 0 0;
+    }
+
+    .video-mate-form-btn {
+        width: 95%;
+        background: #ad2627;
+        margin: 0 auto;
+        padding: 11px 0px;
+        text-align: center;
+        border-radius: 8px;
+    }
+    .circle-main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 4px 0;
+    }
+
+    .video-packages-heading p {
+        color: #fff;
+        font-size: 19px;
+        line-height: 33px;
+        font-weight: 500;
+        padding-bottom: 71px;
+        padding-top: 26px;
+    }
+
+    .video-mate-package.video-mate-package-1 {
+        padding: 39px 15px 51px;
+    }
+
+    .video-inner-package h4 {
+        padding: 0 0 44px 0;
+    }
+
+    .video-inner-package h4::before {
+        content: "";
+        display: inline-block;
+        width: 16%;
+        height: 3px;
+        background-color: black;
+        margin-bottom: 3px;
+    }
+
+    .video-inner-package h4::after {
+        content: "";
+        display: inline-block;
+        width: 18%;
+        height: 3px;
+        background-color: black;
+        margin-bottom: 5px;
+    }
+    .video-inner-package.video-mate-package-12 h4::before {
+        content: "";
+        display: inline-block;
+        width: 16%;
+        height: 3px;
+        background-color: rgb(255, 250, 250);
+        margin-bottom: 3px;
+    }
+
+    .video-inner-package.video-mate-package-12 h4::after {
+        content: "";
+        display: inline-block;
+        width: 18%;
+        height: 3px;
+        background-color: rgb(255, 255, 255);
+        margin-bottom: 5px;
+    }
+
+    .video-inner-package h4 span {
+        font-size: 17px;
+        /* background: red; */
+        padding: 7px 19px;
+        border-radius: 20px;
+        border: 1px solid #000;
+        color: #000;
+    }
+
+    ul.video-inner-list li span {
+        padding: 0 12px 0 0px;
+        font-size: 15px;
+    }
+
+    .viwe-portfolio-btn a {
+        color: #000;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: 400;
+        background: red;
+        padding: 8px 23px;
+        border-radius: 20px;
+        color: #fff;
+    }
+    .viwe-portfolio-btn.viwe-portfolio-btn-22 a {
+        font-size: 17px;
+    }
+    .viwe-portfolio-btn.viwe-portfolio-btn-22 {
+        margin: 17px 0px;
+    }
+
+    .video-mate-package.video-mate-package-red {
+        background: red;
+        padding: 31px 19px;
+    }
+
+    .video-mate-package {
+        background: #fff;
+        padding: 35px 17px;
+        border-radius: 20px;
+    }
+
+    .viwe-portfolio-btn.viwe-portfolio-btn-22.portfolio-btn-223 a {
+        background: red;
+        color: #fff;
+    }
+
+    .header-main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 13px;
+    }
+
+    .header-links ul li a {
+        color: #000;
+        text-decoration: none;
+        font-size: 16px;
+        padding: 0px 2px;
+    }
+
+ 
+
+    .header-btn .header-contact {
+        background: #ad2627;
+        border-radius: 23px;
+        padding: 7px 18px;
+        color: #fff;
+    }
+
+    .header-btn a {
+        font-size: 16px;
+        color: #ad2627;
+        text-decoration: none;
+        padding: 14px 6px;
+        font-weight: 600;
+    }
+
+
+
+
+    /* about page responsive css start ///// */
+
+    .about-content {
+        text-align: center;
+        padding: 21px 0;
+    }
+
+    .about-content h1 {
+        font-size: 58px;
+        color: #fff;
+        font-family: Syne;
+        font-weight: 600;
+        text-transform: capitalize;
+        line-height: 84px;
+    }
+
+    .about-content p {
+        font-size: 17px;
+        font-weight: 500;
+        color: #fff;
+        font-family: Myriad Pro;
+        line-height: 29px;
+    }
+
+
+
+    .about-banner-section {
+        background-image: url(../images/about-us/banner-about.png);
+        background-repeat: no-repeat;
+        background-position: initial;
+        background-size: cover;
+        padding: 0px 0px;
+    }
+    .more-about-content h1 {
+        padding: 20px 0 48px 0;
+        text-align: center;
+        font-size: 36px;
+        font-family: Syne;
+        margin: 0 0px 29px;
+    }
+
+    .more-about-content p {
+        font-size: 19px;
+        font-family: Myriad Pro;
+        padding: 7px 0;
+        font-weight: 500;
+        line-height: 37px;
+    }
+
+    .about-banner-btn a {
+        color: #fffafa;
+        text-decoration: none;
+        font-size: 20px;
+        padding: 9px 23px;
+        background: #ad2627;
+        margin: 0 6px;
+        border-radius: 20px;
+        font-weight: 600;
+    }
+
+
+    .Choose-ViDeomatepro-section {
+        background-image: url(../images/about-us/back.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding: 45px 0px;
+    }
+
+    .Choose-ViDeomatepro-content p {
+        font-size: 20px;
+        color: #fff;
+        font-weight: 500;
+        font-family: 'Myriad Pro';
+        padding: 8px 19px;
+        margin: 0 0 37px 0;
+    }
+
+    .Choose-ViDeomatepro-content h1 {
+        font-size: 37px;
+        font-weight: 700;
+        font-family: 'Syne';
+        line-height: 70px;
+        color: #fff;
+    }
+
+    .Choose-ViDeomatepro-card {
+        display: flex;
+        gap: 12px;
+        padding: 32px 0;
+    }
+
+    .Choose-ViDeomatepro-number h2 {
+        font-size: 37px;
+        color: brown;
+    }
+
+    .Choose-ViDeomatepro-inner-card h4 {
+        font-size: 16px;
+        color: #fff;
+        font-weight: 800;
+        line-height: 30px;
+        font-family: 'Syne';
+    }
+    .Choose-ViDeomatepro-inner-card p {
+        color: #fff;
+        font-size: 15px;
+        line-height: 24px;
+        padding: 6px 0;
+        font-weight: 500;
+        font-family: 'Myriad Pro';
+    }
+
+
+    .industries-work-heading h1 {
+        font-size: 40px;
+        font-weight: 600;
+        text-align: center;
+        line-height: 37px;
+        font-family: 'Syne';
+        padding: 15px 0 53px 0;
+    }
+
+
+    .industries-work-inner-content h2 {
+        font-size: 14px;
+        color: #fff;
+        font-weight: 500;
+        font-family: 'Syne';
+    }
+
+    .industries-work-cord.work-cord-Goverment {
+        padding: 8px 21px;
+        align-items: center;
+    }
+
+    .industries-work-inner-content.work-inner-content12 h2 {
+        font-size: 14px;
+    }
+
+    .industries-work-cord.work-cord-red.cord-red-2 {
+        padding: 17px 17px;
+    }
+
+    .industries-work-cord.cord-red-2 {
+        padding: 12px 14px;
+    }
+
+    .industreis-inner-image.inner-image-12 img {
+        width: 74%;
+    }
+
+    .industreis-inner-image.cord-red-200 img {
+        width: 69%;
+    }
+
+
+    .industreis-inner-image.inner-image-1212 img {
+        width: 77%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (max-width: 768px){
+    div#myHeader {
+        background: #fff;
+        padding: 23px 0;
+        z-index: 99999;
+        display: none;
+    }   
+
+
+    .mobile-header {
+        display: block;
+    }
+
+    .mobile-image {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 44px 14px 17px;
+    }
+
+    .mobile-image img {
+        width: 75%;
+    }
+
+    .video-mate-package.video-mate-package-p.video-mate-package-121211 {
+        padding: 55px 26px;
+        margin: 14px 0;
+    }
+    
+    .banner-content h1 {
+        font-size: 48px;
+        color: #fff;
+        font-weight: 600;
+    }
+
+    .banner-content h4 {
+        font-size: 26px;
+        color: #fff;
+        font-weight: 700;
+        padding: 8px 0;
+        margin: 0 0px 23px 0;
+    }
+
+    .categries-content-7d{
+        background-image: url(../images/porfolio/7.png);
+        background-size: cover;
+        padding: 177px 0;
+        background-position: center;
+    }
+    
+    .categries-content-8d{
+        background-image: url(../images/porfolio/8.png);
+        padding: 177px 0;
+    }
+    
+
+    .categries-content-3d{
+        background-image: url(../images/porfolio/3.png);
+        padding: 146px 0;
+    }
+
+  
+
+    .banner-btn {
+        /* background: #fff; */
+        padding: 0px 58px;
+    }
+
+
+    .banner-content {
+        padding: 0px 39px 0 61px;
+    }   
+
+    button.owl-prev span {
+        font-size: 28px;
+        line-height: 25px;
+        color: red;
+        padding: 2px 11px;
+    }
+
+
+    button.owl-prev {
+        background: #fff !important;
+        color: inherit;
+        border: 1px solid red;
+        padding: 0;
+        font: inherit;
+        position: absolute;
+        top: -176px;
+        margin: 12px -64px;
+        left: 0%;
+    }
+
+
+    button.owl-next span {
+        font-size: 28px;
+        line-height: 25px;
+        color: red;
+        padding: 2px 11px;
+    }
+    button.owl-next {
+        background: #fff !important;
+        color: inherit;
+        border: 1px solid red;
+        padding: 0;
+        font: inherit;
+        position: absolute;
+        top: -179px;
+        margin: 12px -64px;
+        right: 1%;
+    }
+
+    .banner-btn a {
+        font-size: 18px;
+        color: #c02229;
+        text-decoration: none;
+        background: #fff;
+        padding: 8px 22px;
+        /* margin: 27px 0; */
+        border-radius: 20px;
+    }
+    .video-animation-heading h1 {
+        font-size: 30px;
+        text-transform: uppercase;
+        text-align: center;
+        line-height: 56px;
+        font-weight: 700;
+        padding: 0  0 35px 0;
+    }
+
+
+    .video-animation-heading p {
+        font-size: 18px;
+        line-height: 35px;
+        color: #000;
+        font-weight: 500;
+        padding: 21px 0;
+    }
+
+    section.animation-video-section {
+        padding: 50px 0 0;
+    }
+
+    .trusted-clients-heading h1 {
+        font-size: 39px;
+        text-transform: capitalize;
+        font-weight: 700;
+        padding: 0 0 41px 0;
+        margin: 0 0 50px 0;
+    }
+
+
+    .trusted img {
+        width: 93%;
+    }
+
+    .trusted.trusted-2 img {
+        width: 56%;
+    }
+
+
+    .Quality-Work-heading {
+        text-align: center;
+        padding: 0 0 34px 0;
+    }
+
+    .Quality-Work-heading h1 {
+        font-size: 32px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 50px;
+    }
+
+    .contact-form-heading p {
+        font-size: 17px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 35px;
+        text-align: center;
+        /* padding: 34px 0 0 0; */
+        margin: 0 0 49px 0;
+    }
+    .video-mate-form input {
+        width: 100%;
+        padding: 7px 6px;
+        font-size: 15px;
+        margin: 0 0 27px 0;
+        border: 1px solid red;
+    }
+
+    .video-mate-form label {
+        font-size: 14px;
+        padding: 8px 0;
+        text-transform: capitalize;
+    }
+
+
+    .video-mate-form select {
+        width: 100%;
+        padding: 10px 1px 10px 16px;
+        margin: 0 0 25px 0;
+        border: 1px solid red;
+    }
+
+    .video-mate-form textarea {
+        width: 100%;
+        margin: 0 0 33px 0;
+        border: 1px solid red;
+        height: 152px;
+    }
+
+
+    .video-mate-form-btn a {
+        font-size: 16px;
+        color: #fff;
+        text-decoration: none;
+        font-weight: 800;
+        /* border-radius: 20px; */
+    }
+    .video-mate-form-btn {
+        width: 94%;
+        background: #ad2627;
+        margin: 0 auto;
+        padding: 8px 0px;
+        text-align: center;
+        border-radius: 8px;
+    }
+
+
+    .contact-form-heading h1 {
+        font-size: 35px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 58px;
+        text-align: center;
+        padding: 34px 0 0 0;
+    }
+
+    .contact-form-heading p {
+        font-size: 16px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 30px;
+        text-align: center;
+        /* padding: 34px 0 0 0; */
+        margin: 0 0 49px 0;
+    }
+
+    section.call-to-action-setion .call-to-action .main-title {
+        text-align: center;
+        color: #fff;
+        font-size: 23px;
+        font-weight: 500;
+        line-height: 41px;
+    }
+    section.call-to-action-setion .call-to-action .main-title span {
+        font-size: 31px;
+        font-weight: 900;
+    }
+
+
+    section.call-to-action-setion .call-to-action .main-p {
+        text-align: center;
+        padding: 20px 0;
+        color: #fff;
+        font-size: 19px;
+        margin-bottom: 23px;
+    }
+
+    section.call-to-action-setion .call-to-action .get-quote-btn a {
+        background: #f3f3f3;
+        font-size: 16px;
+        font-weight: 700;
+        box-shadow: 0 3px 0 0 #630001;
+        color: #f00;
+        margin: 0px 5px;
+        border-radius: 33px;
+        text-decoration: none;
+        padding: 10px 20px;
+    }
+
+    .call-to-action-setion {
+        background: url(../images/testimonial/q11.png) center/cover no-repeat;
+        padding: 29px 0 41px;
+    }
+
+    .fotr-acc-image img {
+        width: 53%;
+    }
+
+    .fotr-acc-image {
+        padding-bottom: 28px;
+    }
+    .fotr-accounts {
+        padding-top: 44px;
+    }
+
+    .our-expertise {
+        padding: 0;
+    }
+
+    .footer-logo img {
+        width: 69%;
+        padding: 1px 0 0;
+    }
+    .footer-logo p {
+        font-size: 16px;
+        padding: 20px 34px 40px 0px;
+        color: #fff;
+    }
+
+    .footer-reviews {
+        padding-bottom: 22px;
+    }
+    .footer-reviews img {
+        width: 44%;
+    }
+
+    .socail-links-fotr h5 {
+        font-size: 21px;
+        font-weight: 600;
+        color: #fff;
+        padding: 8px 1px;
+    }
+
+
+    .social-icons span:first-child {
+        font-size: 18px;
+        padding: 0;
+    }
+    .social-icons span {
+        font-size: 14px;
+        padding: 0 0 0 14px;
+    }
+
+    .copy-write h4 {
+        color: #fff;
+        font-size: 16px;
+        padding: 38px 0 36px 0;
+        text-align: center;
+    }
+
+    .video-mate-package.video-mate-package-1 {
+        padding: 58px 41px 51px;
+        margin: 0 0 17px -2px;
+    }
+    .video-inner-package h4 span {
+        font-size: 16px;
+        /* background: red; */
+        padding: 7px 19px;
+        border-radius: 20px;
+        border: 1px solid #000;
+        color: #000;
+    }
+
+
+    .video-inner-package h4::before {
+        content: "";
+        display: inline-block;
+        width: 16%;
+        height: 3px;
+        background-color: black;
+        margin-bottom: 4px;
+    }
+
+    .video-inner-package h4::after {
+        content: "";
+        display: inline-block;
+        width: 18%;
+        height: 3px;
+        background-color: black;
+        margin-bottom: 3px;
+    }
+    .video-inner-package.video-mate-package-12 h4::before {
+        content: "";
+        display: inline-block;
+        width: 16%;
+        height: 3px;
+        background-color: rgb(250, 250, 250);
+        margin-bottom: 4px;
+    }
+
+    .video-inner-package.video-mate-package-12 h4::after {
+        content: "";
+        display: inline-block;
+        width: 18%;
+        height: 3px;
+        background-color: rgb(255, 253, 253);
+        margin-bottom: 3px;
+    }
+
+    .viwe-portfolio-btn a {
+        color: #000;
+        text-decoration: none;
+        font-size: 17px;
+        font-weight: 400;
+        background: red;
+        padding: 8px 23px;
+        border-radius: 20px;
+        color: #fff;
+    }
+
+
+/* about page responsive css start ////// */
+
+
+
+.about-banner-section {
+    background-image: url(../images/about-us/banner-about.png);
+    background-repeat: no-repeat;
+    background-position: initial;
+    background-size: cover;
+    padding: 7px 0px;
+}
+
+
+.about-content h1 {
+    font-size: 59px;
+    color: #fff;
+    font-family: Syne;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 98px;
+}
+
+.about-content p {
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+    font-family: Myriad Pro;
+    line-height: 26px;
+}
+
+
+
+header .mobile-menu .contact-btns a.Enroll:hover, header .mobile-menu .contact-btns a.login {
+    transition: 0.5s;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    background: #960707;
+    border: 1px solid #7c0c0c;
+    border-radius: 4px;
+    display: block;
+    padding: 2px 9px;
+    margin: 10px auto;
+    text-decoration: none;
+    width: 51%;
+}
+
+
+.more-about-content h1 {
+    padding: 0 0 48px 0;
+    text-align: center;
+    font-size: 47px;
+    font-family: Syne;
+    margin: 0 0px 29px;
+}
+
+.more-about-content h1 {
+    padding: 0 0 48px 0;
+    text-align: center;
+    font-size: 47px;
+    font-family: Syne;
+    margin: 0 0px 29px;
+}
+
+.Choose-ViDeomatepro-content h1 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Syne';
+    line-height: 56px;
+    color: #fff;
+}
+
+
+.Choose-ViDeomatepro-content p {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Myriad Pro';
+    padding: 8px 14px;
+    margin: 0 0 38px 0;
+}
+
+.industreis-inner-image.work-cord-Goverment-11 img {
+    width: 71%;
+}
+
+.industries-work-heading h1 {
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 90px;
+    font-family: 'Syne';
+    padding: 15px 0 43px 0;
+}
+
+
+
+}
+@media (max-width: 576px){
+    div#myHeader {
+        background: #fff;
+        padding: 23px 0;
+        z-index: 99999;
+        display: none;
+    }
+
+    .mobile-image {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5px 23px 5px 18px;
+    }
+
+
+    .mobile-image img {
+        width: 61%;
+    }
+
+    .banner-btn {
+        /* background: #fff; */
+        padding: 0 58px;
+        margin: 0 0 29px 0;
+    }
+
+
+    .banner-btn a {
+        font-size: 19px;
+        color: #c02229;
+        text-decoration: none;
+        background: #fff;
+        padding: 5px 16px;
+        /* margin: 27px 0; */
+        border-radius: 20px;
+    }
+
+    .banner-content h4 {
+        font-size: 32px;
+        color: #fff;
+        font-weight: 700;
+        padding: 8px 0;
+        margin: 0 0px 23px 0;
+    }
+
+    .banner-content h1 {
+        font-size: 39px;
+        color: #fff;
+        font-weight: 600;
+    }
+
+
+    .banner-content {
+        padding: 44px 40px 1px 63px;
+    }
+    button.owl-prev span {
+        font-size: 27px;
+        line-height: 25px;
+        color: red;
+        padding: 2px 11px;
+    }     
+
+    button.owl-prev {
+        background: #fff !important;
+        color: inherit;
+        border: 1px solid red;
+        padding: 0;
+        font: inherit;
+        position: absolute;
+        top: -504px;
+        margin: 12px -64px;
+        left: 1%;
+    }
+
+    button.owl-next {
+        background: #fff !important;
+        color: inherit;
+        border: 1px solid red;
+        padding: 0;
+        font: inherit;
+        position: absolute;
+        top: -504px;
+        margin: 12px -64px;
+        right: 2%;
+    }
+
+    button.owl-next span {
+        font-size: 26px;
+        line-height: 25px;
+        color: red;
+        padding: 2px 11px;
+    }
+    .video-animation-heading h1 {
+        font-size: 26px;
+        text-transform: uppercase;
+        text-align: center;
+        line-height: 41px;
+        font-weight: 700;
+        padding: 35px 0;
+    }
+
+
+    .video-animation-heading h1 {
+        font-size: 26px;
+        text-transform: uppercase;
+        text-align: center;
+        line-height: 41px;
+        font-weight: 700;
+        padding: 0 0 35px 0;
+    }
+
+    .video-animation-heading p {
+        font-size: 16px;
+        line-height: 35px;
+        color: #000;
+        font-weight: 500;
+        padding: 12px 0;
+    }
+
+    .trusted.trusted-2 img {
+        width: 40%;
+    }
+
+
+    .video-mate-pack ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+        padding: 0 0 74px 0;
+    }
+
+    .video-mate-pack ul li {
+        font-size: 15px;
+        font-weight: 600;
+        border-bottom: 3px solid #FFF;
+        cursor: pointer;
+        color: #fff;
+        padding: 6px 0;
+    }
+
+    ul.video-inner-list {
+        display: block;
+    }
+
+    ul.video-inner-list li {
+        color: #000;
+    }
+
+    ul.video-inner-list {
+        padding: 0;
+    }
+    .video-mate-package.video-mate-package-1 {
+        padding: 58px 41px 51px;
+        margin: 0 0 20px 0;
+    }
+
+    .viwe-portfolio-btn a {
+        color: #000;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: 400;
+        background: red;
+        padding: 8px 23px;
+        border-radius: 20px;
+        color: #fff;
+    }
+
+    .video-inner-package h4 span {
+        font-size: 19px;
+        /* background: red; */
+        padding: 7px 19px;
+        border-radius: 20px;
+        border: 1px solid #000;
+        color: #000;
+    }
+
+    ul.video-inner-list.video-mate-package-122 li {
+        color: #fff;
+        border-bottom: 0;
+    }
+
+
+    .video-mate-package.video-mate-package-red {
+        background: red;
+        margin-bottom: 21px;
+    }
+
+    .testimonial-slider .item p {
+        font-size: 16px;
+        text-align: center;
+        line-height: 38px;
+        color: #fff;
+    }
+
+
+    .circle-main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 3px 0;
+    }
+
+    .testimonial-slider .item p {
+        font-size: 16px;
+        text-align: center;
+        line-height: 38px;
+        color: #fff;
+    }
+
+
+    section.testimonial-section {
+        padding: 36px 0;
+    }
+
+    .Quality-Work-heading h1 {
+        font-size: 24px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 41px;
+    }
+
+    .Quality-Work-image img {
+        width: 54%;
+    }
+
+
+    .contact-form-heading p {
+        font-size: 16px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 34px;
+        text-align: center;
+        /* padding: 34px 0 0 0; */
+        margin: 0 0 49px 0;
+    }
+
+    .contact-form-heading h1 {
+        font-size: 31px;
+        color: #000;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 48px;
+        text-align: center;
+        padding: 34px 0 0 0;
+    }
+
+
+    .video-mate-form textarea {
+        width: 100%;
+        margin: 0 0 28px 0;
+        border: 1px solid red;
+        height: 100px;
+    }
+
+    .trusted img {
+        width: 68%;
+    }
+    .video-mate-package {
+        background: #fff;
+        padding: 35px 42px;
+        border-radius: 20px;
+        margin: 11px 16px !important;
+    }
+
+    .Quality-Work-image {
+        margin: 0 0 0 30px;
+    }
+
+    .video-packages-heading p {
+        color: #fff;
+        font-size: 19px;
+        line-height: 33px;
+        font-weight: 500;
+        padding-bottom: 52px;
+        padding-top: 26px;
+    }   
+
+    .video-mate-form-btn a {
+        font-size: 16px;
+        color: #fff;
+        text-decoration: none;
+        font-weight: 800;
+    }
+
+    .video-mate-form-btn {
+        width: 93%;
+        margin: 0 auto;
+        padding: 12px 0px;
+        text-align: center;
+        border-radius: 8px;
+    }
+
+    section.call-to-action-setion .call-to-action .main-title {
+        text-align: center;
+        font-size: 17px;
+        line-height: 40px;
+    }   
+
+    section.call-to-action-setion .call-to-action .main-title span {
+        font-size: 24px;
+    }
+    section.call-to-action-setion .call-to-action .main-p {
+        padding: 20px 0;
+        font-size: 18px;
+        margin-bottom: 23px;
+    }
+
+    section.call-to-action-setion .call-to-action .get-quote-btn a {
+        background: #f3f3f3;
+        font-size: 15px;
+        margin: 0px 5px;
+  
+        padding: 6px 10px;
+    }
+
+    .footer-logo img {
+        width: 56%;
+        padding: 1px 0 0;
+    }
+    .footer-logo p {
+        font-size: 16px;
+        padding: 20px 0px 40px 0;
+        color: #fff;
+    }
+
+    .footer-reviews {
+        padding-bottom: 20px;
+    }
+
+    .footer-reviews img {
+        width: 35%;
+    }
+    .social-icons span:first-child {
+        font-size: 17px;
+        padding: 0;
+    }   
+    .social-icons span {
+        font-size: 17px;
+        padding: 0 0 0 16px;
+    }
+
+    .our-expertise {
+        padding: 15px 0 0 10px;
+    }
+
+    .fotr-acc-image img {
+        width: 38%;
+    }
+
+    .fotr-accounts {
+        padding-top: 45px;
+    }
+
+    .fotr-acc-image {
+        padding-bottom: 31px;
+    }
+
+
+    .copy-write h4 {
+        color: #fff;
+        font-size: 16px;
+        padding: 2px 0 36px 0;
+        text-align: center;
+    }
+
+
+/* about page responsive csss start //// */
+
+.about-banner-section {
+    background-image: url(../images/about-us/banner-about.png);
+    background-repeat: no-repeat;
+    background-position: initial;
+    background-size: cover;
+    padding: 28px 0px;
+}
+
+.about-content h1 {
+    font-size: 55px;
+    color: #fff;
+    font-family: Syne;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 86px;
+}
+
+.about-content p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    font-family: Myriad Pro;
+    line-height: 31px;
+}   
+
+.more-about-content h1 {
+    padding: 0 0 48px 0;
+    text-align: center;
+    font-size: 37px;
+    line-height: 54px;
+    font-family: Syne;
+    margin: 0 0px 2px;
+}
+.more-about-content p {
+    font-size: 18px;
+    font-family: Myriad Pro;
+    padding: 15px 0;
+    font-weight: 500;
+    line-height: 30px;
+}
+.about-banner-btn a {
+    color: #fffafa;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 9px 18px;
+    background: #ad2627;
+    margin: 0 8px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.about-banner-btn a {
+    color: #fffafa;
+    font-size: 17px;
+    padding: 9px 18px;
+    margin: 0 8px;
+}
+
+
+.Choose-ViDeomatepro-content h1 {
+    font-size: 37px;
+    font-weight: 700;
+    font-family: 'Syne';
+    line-height: 51px;
+    color: #fff;
+}
+
+.Choose-ViDeomatepro-section {
+    background-image: url(../images/about-us/back.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 46px 0px;
+}
+
+
+.Choose-ViDeomatepro-content p {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Myriad Pro';
+    padding: 22px 30px;
+    margin: 0 0 38px 0;
+}
+
+.industries-work-heading h1 {
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 59px;
+    font-family: 'Syne';
+    padding: 0px 0 72px 0;
+}
+
+.industreis-inner-image.work-cord-Goverment-11 img {
+    width: 66%;
+}
+
+
+}
+@media (max-width: 375px){
+    div#myHeader {
+        background: #fff;
+        padding: 23px 0;
+        z-index: 99999;
+        display: none;
+    }
+
+    .banner-content h1 {
+        font-size: 26px;
+        color: #fff;
+        font-weight: 600;
+    }
+    .banner-content h4 {
+        font-size: 23px;
+        color: #fff;
+        font-weight: 700;
+        padding: 8px 0;
+        margin: 0 0px 23px 0;
+    }
+    .banner-btn {
+        /* background: #fff; */
+        padding: 0 72px;
+        margin: 0 0 50px 0;
+    }
+    .banner-btn a {
+        font-size: 15px;
+        color: #c02229;
+        text-decoration: none;
+        background: #fff;
+        padding: 5px 11px;
+        /* margin: 27px 0; */
+        border-radius: 20px;
+    }
+
+    .banner-content {
+        padding: 51px 77px 0 77px;
+    }
+
+    .video-animation-heading h1 {
+        font-size: 16px;
+        text-transform: uppercase;
+        text-align: center;
+        line-height: 40px;
+        font-weight: 700;
+        padding: 32px 0;
+    }
+
+    section.animation-video-section {
+        padding: 0px 0;
+    }
+
+    .video-animation-heading p {
+        font-size: 15px;
+        line-height: 30px;
+        color: #000;
+        font-weight: 500;
+        padding: 21px 4px;
+    }
+
+    .trusted-clients-heading h1 {
+        font-size: 34px;
+        text-transform: capitalize;
+        font-weight: 700;
+        padding: 0 0 39px 0;
+        margin: 0 0 50px 0;
+    }
+
+    .title-long::before {
+        background: red;
+        padding: 2px 0px;
+        content: "";
+        width: 20%;
+        position: absolute;
+        bottom: 0px;
+        margin: 0px 0px 0px 0px;
+        left: 21%;
+        bottom: 9px;
+    }
+
+    .title-long::after {
+        background: red;
+        padding: 2px 0px;
+        content: "";
+        display: inline-block;
+        width: 19%;
+        position: absolute;
+        bottom: 9px;
+        right: 23%;
+    }
+
+    .title-short::before {
+        background: red;
+        padding: 1px 0px;
+        content: "";
+        width: 14%;
+        position: absolute;
+        bottom: 0px;
+        margin: 0px 0px 0px 0px;
+        left: 29%;
+        bottom: 9px;
+    }
+    .title-short::after {
+        background: red;
+        padding: 1px 0px;
+        content: "";
+        display: inline-block;
+        width: 13%;
+        position: absolute;
+        bottom: 9px;
+        right: 31%;
+    }
+
+    .trusted.trusted-2 img {
+        width: 43%;
+    }
+
+    .video-head h1 {
+        color: #fff;
+        font-size: 30px;
+        text-transform: capitalize;
+        font-weight: 700;
+        padding: 43px 0px;
+    }   
+    .video-packages-heading p {
+        color: #fff;
+        font-size: 15px;
+        line-height: 28px;
+        font-weight: 500;
+        padding-bottom: 65px;
+        padding-top: 18px;
+    }
+
+    .video-mate-pack ul {
+        display: block;
+        gap: 44px;
+        padding: 0px 0 74px 0;
+        text-align: center;
+        margin: 0 55px;
+    }
+    .video-inner-package h4 {
+        padding: 0 0 28px 0;
+    }
+
+    ul.video-inner-list {
+        margin: 0 0;
+        text-align: initial;
+        padding: 0;
+    }
+
+    .video-inner-package h4 span {
+        font-size: 16px;
+        padding: 7px 19px;
+    }
+
+    .video-inner-package p span {
+        font-size: 16px;
+    }
+
+    .video-inner-package p {
+        font-size: 19px;
+        line-height: 30px;
+        padding: 18px 0px 24px;
+    }
+
+    .video-inner-package h2 {
+        font-size: 28px;
+        color: red;
+    }
+    .viwe-portfolio-btn a {
+        font-size: 16px;
+        padding: 8px 23px;
+    }
+
+    .video-mate-package.video-mate-package-1 {
+        padding: 58px 14px 51px;
+        margin: 0 0 24px 0;
+    }
+
+    .video-mate-package.video-mate-package-red {
+        background: red;
+        margin: 0 0 22px 0;
+    }
+
+    .circle {
+        width: 90px;
+        height: 90px;
+    }
+    .circle-main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 11px 0;
+    }
+    .testimonial-slider .item p {
+        font-size: 16px;
+        line-height: 38px;
+    }
+    .Quality-Work-heading h1 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .Quality-Work-heading {
+        text-align: center;
+        padding: 0px 0 34px 0;
+    }
+    .contact-form-heading h1 {
+        font-size: 28px;
+        line-height: 32px;
+        padding: 34px 0 11px 0;
+    }
+    .contact-form-heading p {
+        font-size: 17px;
+        line-height: 35px;
+        margin: 0 0 49px 0;
+    }
+
+    .video-mate-form input {
+        padding: 10px 16px;
+        font-size: 18px;
+        margin: 0 0 15px 0;
+    
+    }
+
+    .video-mate-form label {
+        font-size: 17px;
+        padding: 3px 0;
+        text-transform: capitalize;
+    }
+
+    .video-mate-form textarea {
+        width: 100%;
+        margin: 0 0 28px 0;
+        border: 1px solid red;
+        height: 119px;
+    }
+
+    .video-mate-form-btn a {
+        font-size: 16px;
+        color: #fff;
+        text-decoration: none;
+        font-weight: 800;
+        /* border-radius: 20px; */
+    }
+
+    .video-mate-form-btn {
+        width: 92%;
+        background: #ad2627;
+        margin: 0 auto;
+        padding: 10px 0px;
+        text-align: center;
+        border-radius: 8px;
+    }
+
+    section.call-to-action-setion .call-to-action .main-p {
+        text-align: center;
+        padding: 20px 0;
+        color: #fff;
+        font-size: 19px;
+        margin-bottom: 14px;
+    }
+    section.call-to-action-setion .call-to-action .get-quote-btn a {
+        background: #f3f3f3;
+        font-size: 14px;
+        font-weight: 700;
+        box-shadow: 0 3px 0 0 #630001;
+        color: #f00;
+        margin: 0px 5px;
+        border-radius: 33px;
+        text-decoration: none;
+        padding: 10px 10px;
+    }
+
+    section.call-to-action-setion .call-to-action .main-title {
+        text-align: center;
+        color: #fff;
+        font-size: 25px;
+        font-weight: 500;
+        line-height: 38px;
+    }
+
+
+    section.call-to-action-setion .call-to-action .main-title span {
+        font-size: 28px;
+        font-weight: 900;
+    }
+    .footer-logo p {
+        font-size: 16px;
+        padding: 20px 0px 40px 0;
+        color: #fff;
+    }
+
+    .footer-logo img {
+        width: 72%;
+        padding: 1px 0 0;
+    }
+
+    .footer-reviews {
+        padding: 0 0 18px 0;
+    }                       
+    .footer-reviews img {
+        width: 41%;
+    }
+
+    .socail-links-fotr h5 {
+        font-size: 19px;
+        font-weight: 600;
+        color: #fff;
+        padding: 8px 1px;
+    }
+    .social-icons span:first-child {
+        font-size: 15px;
+        padding: 0;
+    }
+
+    .social-icons span {
+        font-size: 15px;
+        padding: 0 0 0 16px;
+    }
+
+    .our-expertise {
+        padding: 19px 0 0 9px;
+    }
+
+    .copy-write h4 {
+        color: #fff;
+        font-size: 16px;
+        padding: 18px 0 36px 0;
+        text-align: center;
+    }
+
+
+    .fotr-acc-image {
+        padding-bottom: 21px;
+        padding-top: 33px;
+    }
+
+    .fotr-accounts {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .fotr-acc-image img {
+        width: 82%;
+    }
+    .our-expertise h4 {
+        color: #fff;
+        font-size: 28px;
+        line-height: 52px;
+        text-transform: capitalize;
+        padding: 0 0 14px 0;
+    }
+
+    .mobile-image {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5px 18px 5px 18px;
+    }
+    .mobile-image img {
+        width: 57%;
+    }
+
+
+    button.owl-prev span {
+        font-size: 26px;
+        line-height: 17px;
+        color: red;
+        padding: 1px 11px;
+    }
+
+    button.owl-next span {
+        font-size: 26px;
+        line-height: 16px;
+        color: red;
+        padding: 0px 11px;
+    }
+
+
+
+
+
+
+
+/* about page responsive css ///// */
+.about-content h1 {
+    font-size: 42px;
+    line-height: 64px;
+}
+
+
+.about-content p {
+    font-size: 16px;
+    line-height: 31px;
+}
+.about-banner-section {
+    background-image: url(../images/about-us/banner-about.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: cover;
+    padding: 56px 0px;
+}
+
+.more-about-content h1 {
+    padding: 0 0 45px 0;
+    font-size: 32px;
+    margin: 0 0px 13px;
+}
+
+.more-about-content p {
+    font-size: 16px;
+    padding: 15px 0;
+    line-height: 28px;
+}
+
+
+.about-banner-btn {
+    margin: 27px 0;
+}
+
+.about-banner-btn a {
+    font-size: 14px;
+    padding: 9px 14px;
+    margin: 0 1px;
+}
+
+.Choose-ViDeomatepro-section {
+    background-image: url(../images/about-us/back.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: cover;
+    padding: 49px 0px;
+}
+
+
+.Choose-ViDeomatepro-content h1 {
+    font-size: 27px;
+    font-weight: 700;
+    font-family: 'Syne';
+    line-height: 40px;
+    color: #fff;
+}
+
+.Choose-ViDeomatepro-content p {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Myriad Pro';
+    padding: 17px 0px;
+    margin: 0 0 8px 0;
+}
+
+.Choose-ViDeomatepro-card {
+    display: flex;
+    gap: 24px;
+    padding: 17px 0;
+}
+
+
+.industries-work-heading h1 {
+    font-size: 31px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 45px;
+    font-family: 'Syne';
+    padding: 15px 0 55px 0;
+}
+
+section.industries-work-section {
+    padding: 22px 0 60px 0;
+}
+.industries-work-inner-content.work-inner-content12 h2 {
+    font-size: 22px;
+}
+
+.video-mate-package.video-mate-package-red {
+    margin: 0 0 !important;
+}
+
+.video-mate-package.video-mate-package-1 {
+    padding: 58px 14px 51px;
+    margin: 0 11px 26px 11px !important;
+}
+
+.video-mate-package {
+    background: #fff;
+    padding: 35px 17px;
+    border-radius: 20px;
+    margin: 11px 4px !important;
+}
+
+.industreis-inner-image.work-cord-Goverment-11 img {
+    width: 65%;
+}   
+
+}
